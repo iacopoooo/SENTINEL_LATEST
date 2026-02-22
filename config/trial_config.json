@@ -1,0 +1,54 @@
+{
+  "trial_info": {
+    "name": "SENTINEL Early Warning Trial",
+    "protocol_id": "SENT-2026-001",
+    "version": "1.0",
+    "start_date": "2026-01-01",
+    "status": "active",
+    "principal_investigator": "TODO: Inserire nome PI",
+    "sponsor": "TODO: Inserire istituzione sponsor",
+    "ethics_approval": "TODO: Inserire codice approvazione CE"
+  },
+
+  "sites": {
+    "SITE_01": {"name": "Ospedale 1", "city": "Milano", "active": true},
+    "SITE_02": {"name": "Ospedale 2", "city": "Roma", "active": true},
+    "SITE_03": {"name": "Ospedale 3", "city": "Firenze", "active": false}
+  },
+
+  "sentinel_config": {
+    "version": "2.5",
+    "high_risk_threshold": 0.50,
+    "critical_risk_threshold": 0.75,
+    "time_decay_rate": 0.98,
+    "max_cumulative_lr": 500.0,
+    "base_evidence_weight": 5.0
+  },
+
+  "visit_schedule_weeks": [0, 6, 12, 18, 24, 36, 48, 60, 72, 84, 96],
+
+  "required_assessments": {
+    "baseline": ["demographics", "molecular_profile", "staging", "comorbidities"],
+    "followup": ["clinical_response", "ctdna", "adverse_events"],
+    "progression": ["clinical_response", "ctdna", "biopsy", "next_treatment"]
+  },
+
+  "ctdna_panel": {
+    "genes": ["EGFR", "MET", "HER2", "PIK3CA", "BRAF", "KRAS", "TP53", "RB1"],
+    "copy_number_genes": ["MET", "HER2", "EGFR"],
+    "met_cn_thresholds": {"low": 2.5, "medium": 4.0, "high": 6.0},
+    "her2_cn_thresholds": {"low": 2.5, "high": 6.0}
+  },
+
+  "alert_settings": {
+    "critical": {"notify": ["email", "sms"], "response_time_hours": 24},
+    "high": {"notify": ["email"], "response_time_hours": 72},
+    "medium": {"notify": ["dashboard"], "response_time_hours": 168}
+  },
+
+  "data_retention": {
+    "patient_data_years": 15,
+    "backup_frequency_days": 1,
+    "audit_log_retention_years": 10
+  }
+}

@@ -1,0 +1,101 @@
+Patient ID,Tank Score,Ferrari Score,Risk Score,OS Months,OS Status,Cancer Type,Correct Prediction
+P-0000628,52,15,52,2.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0010937,20,16,20,12.0,1:DECEASED,Melanoma,✗
+P-0010013,25,12,25,3.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0002917,76,39,76,30.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0018673,50,37,50,14.0,0:LIVING,Cancer of Unknown Primary,✓
+P-0017241,25,25,25,4.0,1:DECEASED,Bladder Cancer,✗
+P-0011144,50,15,50,4.0,1:DECEASED,Colorectal Cancer,✗
+P-0007495,65,32,65,5.0,0:LIVING,Colorectal Cancer,✓
+P-0018277,15,10,15,1.0,0:LIVING,Colorectal Cancer,✓
+P-0001731,25,15,25,31.0,1:DECEASED,Glioma,✗
+P-0002292,25,25,25,15.0,1:DECEASED,Bladder Cancer,✗
+P-0007597,50,25,50,5.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0014449,15,10,15,11.0,1:DECEASED,Melanoma,✗
+P-0004051,20,12,20,28.0,0:LIVING,Colorectal Cancer,✓
+P-0003521,25,15,25,1.0,1:DECEASED,Esophagogastric Cancer,✗
+P-0003865,40,15,40,6.0,1:DECEASED,Glioma,✗
+P-0000697,0,10,10,32.0,1:DECEASED,Melanoma,✗
+P-0005109,45,20,45,18.0,0:LIVING,Melanoma,✓
+P-0004315,100,98,100,1.0,1:DECEASED,Non-Small Cell Lung Cancer,✓
+P-0006121,25,24,25,50.0,0:LIVING,Melanoma,✓
+P-0001836,50,32,50,6.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0005421,20,16,20,32.0,0:LIVING,Melanoma,✓
+P-0003913,25,15,25,1.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0003944,0,10,10,21.0,1:DECEASED,Esophagogastric Cancer,✗
+P-0015331,52,15,52,1.0,1:DECEASED,Esophagogastric Cancer,✗
+P-0015067,25,25,25,14.0,0:LIVING,Bladder Cancer,✓
+P-0004103,0,10,10,23.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0022034,0,10,10,2.0,1:DECEASED,Bladder Cancer,✗
+P-0016258,76,39,76,1.0,1:DECEASED,Cancer of Unknown Primary,✓
+P-0001850,0,10,10,17.0,0:LIVING,Esophagogastric Cancer,✓
+P-0006535,25,20,25,19.0,1:DECEASED,Bladder Cancer,✗
+P-0009256,76,39,76,26.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0010921,15,10,15,11.0,1:DECEASED,Bladder Cancer,✗
+P-0001904,15,10,15,1.0,1:DECEASED,Bladder Cancer,✗
+P-0001832,52,15,52,3.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0006318,15,10,15,0.0,1:DECEASED,Esophagogastric Cancer,✗
+P-0012115,25,12,25,19.0,0:LIVING,Colorectal Cancer,✓
+P-0016618,25,25,25,10.0,0:LIVING,Bladder Cancer,✓
+P-0007232,0,10,10,10.0,0:LIVING,Melanoma,✓
+P-0006220,0,10,10,1.0,1:DECEASED,Renal Cell Carcinoma,✗
+P-0009311,15,24,24,7.0,1:DECEASED,Melanoma,✗
+P-0020226,25,15,25,9.0,0:LIVING,Esophagogastric Cancer,✓
+P-0014465,25,25,25,2.0,0:LIVING,Head and Neck Cancer,✓
+P-0007567,60,12,60,7.0,0:LIVING,Colorectal Cancer,✓
+P-0014513,76,39,76,3.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0012780,20,16,20,11.0,1:DECEASED,Melanoma,✗
+P-0000208,0,10,10,13.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0000758,40,15,40,14.0,1:DECEASED,Glioma,✗
+P-0009108,20,16,20,20.0,0:LIVING,Melanoma,✓
+P-0002731,100,98,100,25.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0002940,15,10,15,17.0,0:LIVING,Renal Cell Carcinoma,✓
+P-0027031,25,12,25,5.0,0:LIVING,Esophagogastric Cancer,✓
+P-0010355,50,25,50,1.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0017285,0,10,10,7.0,0:LIVING,Cancer of Unknown Primary,✓
+P-0002921,25,20,25,12.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0004890,76,39,76,18.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0017599,25,25,25,7.0,1:DECEASED,Bladder Cancer,✗
+P-0016775,25,15,25,5.0,0:LIVING,Cancer of Unknown Primary,✓
+P-0013854,25,24,25,33.0,1:DECEASED,Melanoma,✗
+P-0009348,0,10,10,30.0,0:LIVING,Renal Cell Carcinoma,✓
+P-0002041,0,10,10,4.0,1:DECEASED,Breast Cancer,✗
+P-0016046,0,10,10,16.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0012267,0,10,10,45.0,0:LIVING,Renal Cell Carcinoma,✓
+P-0003970,25,15,25,12.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0016256,60,12,60,5.0,1:DECEASED,Glioma,✗
+P-0012315,20,16,20,18.0,0:LIVING,Melanoma,✓
+P-0015593,50,15,50,14.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0003621,20,16,20,35.0,0:LIVING,Melanoma,✓
+P-0021644,0,10,10,9.0,0:LIVING,Bladder Cancer,✓
+P-0006869,25,15,25,4.0,1:DECEASED,Esophagogastric Cancer,✗
+P-0004933,35,16,35,33.0,0:LIVING,Melanoma,✓
+P-0021651,60,15,60,2.0,0:LIVING,Cancer of Unknown Primary,✓
+P-0009497,0,10,10,56.0,0:LIVING,Melanoma,✓
+P-0002668,25,25,25,41.0,0:LIVING,Bladder Cancer,✓
+P-0006488,45,20,45,50.0,0:LIVING,Melanoma,✓
+P-0008239,25,15,25,15.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0000739,25,12,25,31.0,1:DECEASED,Colorectal Cancer,✗
+P-0005159,45,20,45,27.0,1:DECEASED,Melanoma,✗
+P-0001841,45,16,45,3.0,1:DECEASED,Melanoma,✗
+P-0009469,52,15,52,3.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0015983,0,10,10,23.0,0:LIVING,Renal Cell Carcinoma,✓
+P-0016240,25,25,25,10.0,0:LIVING,Head and Neck Cancer,✓
+P-0005762,25,15,25,10.0,0:LIVING,Colorectal Cancer,✓
+P-0019267,25,12,25,7.0,0:LIVING,Colorectal Cancer,✓
+P-0024530,25,15,25,4.0,0:LIVING,Esophagogastric Cancer,✓
+P-0012999,25,30,30,13.0,1:DECEASED,Melanoma,✗
+P-0016226,0,10,10,22.0,1:DECEASED,Breast Cancer,✗
+P-0009473,50,25,50,23.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0006895,50,32,50,19.0,0:LIVING,Non-Small Cell Lung Cancer,✓
+P-0006268,25,15,25,12.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0005131,40,15,40,5.0,1:DECEASED,Breast Cancer,✗
+P-0007580,52,15,52,10.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0002646,25,15,25,4.0,1:DECEASED,Non-Small Cell Lung Cancer,✗
+P-0002874,97,37,97,3.0,1:DECEASED,Non-Small Cell Lung Cancer,✓
+P-0006952,52,30,52,69.0,0:LIVING,Melanoma,✓
+P-0014600,15,10,15,1.0,1:DECEASED,Renal Cell Carcinoma,✗
+P-0006046,70,25,70,14.0,0:LIVING,Non-Small Cell Lung Cancer,✗
+P-0020147,0,10,10,9.0,0:LIVING,Head and Neck Cancer,✓
+P-0009308,0,10,10,22.0,0:LIVING,Melanoma,✓
+P-0022995,30,43,43,7.0,1:DECEASED,Esophagogastric Cancer,✗

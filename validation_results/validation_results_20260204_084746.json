@@ -1,0 +1,1932 @@
+{
+  "metadata": {
+    "timestamp": "20260204_084746",
+    "n_patients": 100,
+    "dataset": "/home/iacopo/Scaricati/SENTINEL_TRIAL_2/SENTINEL_TRIAL/_ARCHIVE_PRE_v18/IO_dataset_v01_MSK.csv",
+    "ai_synthesis": "disabled"
+  },
+  "metrics": {
+    "n_total": 100,
+    "n_deceased": 50,
+    "n_living": 50,
+    "n_errors": 0,
+    "avg_risk_deceased": 0.0,
+    "avg_risk_living": 0.0,
+    "risk_separation": 0.0,
+    "threshold_used": 70,
+    "accuracy": 0.5,
+    "sensitivity": 0.0,
+    "specificity": 1.0,
+    "precision": 0,
+    "f1_score": 0,
+    "auc_roc": 0.5,
+    "confusion_matrix": {
+      "tp": 0,
+      "tn": 50,
+      "fp": 0,
+      "fn": 50
+    }
+  },
+  "patient_results": [
+    {
+      "patient_id": "P-0000628",
+      "ground_truth": {
+        "os_months": 2.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0010937",
+      "ground_truth": {
+        "os_months": 12.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0010013",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002917",
+      "ground_truth": {
+        "os_months": 30.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0018673",
+      "ground_truth": {
+        "os_months": 14.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Cancer of Unknown Primary"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0017241",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0011144",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0007495",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0018277",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001731",
+      "ground_truth": {
+        "os_months": 31.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Glioma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002292",
+      "ground_truth": {
+        "os_months": 15.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0007597",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0014449",
+      "ground_truth": {
+        "os_months": 11.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0004051",
+      "ground_truth": {
+        "os_months": 28.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003521",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003865",
+      "ground_truth": {
+        "os_months": 6.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Glioma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0000697",
+      "ground_truth": {
+        "os_months": 32.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0005109",
+      "ground_truth": {
+        "os_months": 18.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0004315",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006121",
+      "ground_truth": {
+        "os_months": 50.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001836",
+      "ground_truth": {
+        "os_months": 6.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0005421",
+      "ground_truth": {
+        "os_months": 32.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003913",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003944",
+      "ground_truth": {
+        "os_months": 21.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0015331",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0015067",
+      "ground_truth": {
+        "os_months": 14.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0004103",
+      "ground_truth": {
+        "os_months": 23.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0022034",
+      "ground_truth": {
+        "os_months": 2.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016258",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Cancer of Unknown Primary"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001850",
+      "ground_truth": {
+        "os_months": 17.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006535",
+      "ground_truth": {
+        "os_months": 19.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009256",
+      "ground_truth": {
+        "os_months": 26.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0010921",
+      "ground_truth": {
+        "os_months": 11.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001904",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001832",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006318",
+      "ground_truth": {
+        "os_months": 0.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0012115",
+      "ground_truth": {
+        "os_months": 19.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016618",
+      "ground_truth": {
+        "os_months": 10.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0007232",
+      "ground_truth": {
+        "os_months": 10.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006220",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009311",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0020226",
+      "ground_truth": {
+        "os_months": 9.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0014465",
+      "ground_truth": {
+        "os_months": 2.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Head and Neck Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0007567",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0014513",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0012780",
+      "ground_truth": {
+        "os_months": 11.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0000208",
+      "ground_truth": {
+        "os_months": 13.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0000758",
+      "ground_truth": {
+        "os_months": 14.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Glioma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009108",
+      "ground_truth": {
+        "os_months": 20.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002731",
+      "ground_truth": {
+        "os_months": 25.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002940",
+      "ground_truth": {
+        "os_months": 17.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0027031",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0010355",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0017285",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Cancer of Unknown Primary"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002921",
+      "ground_truth": {
+        "os_months": 12.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0004890",
+      "ground_truth": {
+        "os_months": 18.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0017599",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016775",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Cancer of Unknown Primary"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0013854",
+      "ground_truth": {
+        "os_months": 33.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009348",
+      "ground_truth": {
+        "os_months": 30.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002041",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Breast Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016046",
+      "ground_truth": {
+        "os_months": 16.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0012267",
+      "ground_truth": {
+        "os_months": 45.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003970",
+      "ground_truth": {
+        "os_months": 12.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016256",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Glioma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0012315",
+      "ground_truth": {
+        "os_months": 18.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0015593",
+      "ground_truth": {
+        "os_months": 14.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0003621",
+      "ground_truth": {
+        "os_months": 35.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0021644",
+      "ground_truth": {
+        "os_months": 9.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006869",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0004933",
+      "ground_truth": {
+        "os_months": 33.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0021651",
+      "ground_truth": {
+        "os_months": 2.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Cancer of Unknown Primary"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009497",
+      "ground_truth": {
+        "os_months": 56.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002668",
+      "ground_truth": {
+        "os_months": 41.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Bladder Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006488",
+      "ground_truth": {
+        "os_months": 50.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0008239",
+      "ground_truth": {
+        "os_months": 15.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0000739",
+      "ground_truth": {
+        "os_months": 31.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0005159",
+      "ground_truth": {
+        "os_months": 27.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0001841",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009469",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0015983",
+      "ground_truth": {
+        "os_months": 23.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016240",
+      "ground_truth": {
+        "os_months": 10.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Head and Neck Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0005762",
+      "ground_truth": {
+        "os_months": 10.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0019267",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Colorectal Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0024530",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0012999",
+      "ground_truth": {
+        "os_months": 13.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0016226",
+      "ground_truth": {
+        "os_months": 22.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Breast Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009473",
+      "ground_truth": {
+        "os_months": 23.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006895",
+      "ground_truth": {
+        "os_months": 19.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006268",
+      "ground_truth": {
+        "os_months": 12.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0005131",
+      "ground_truth": {
+        "os_months": 5.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Breast Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0007580",
+      "ground_truth": {
+        "os_months": 10.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002646",
+      "ground_truth": {
+        "os_months": 4.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0002874",
+      "ground_truth": {
+        "os_months": 3.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006952",
+      "ground_truth": {
+        "os_months": 69.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0014600",
+      "ground_truth": {
+        "os_months": 1.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Renal Cell Carcinoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0006046",
+      "ground_truth": {
+        "os_months": 14.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Non-Small Cell Lung Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0020147",
+      "ground_truth": {
+        "os_months": 9.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Head and Neck Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0009308",
+      "ground_truth": {
+        "os_months": 22.0,
+        "os_status": "0:LIVING",
+        "is_deceased": false,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Melanoma"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    },
+    {
+      "patient_id": "P-0022995",
+      "ground_truth": {
+        "os_months": 7.0,
+        "os_status": "1:DECEASED",
+        "is_deceased": true,
+        "durable_benefit": "UNKNOWN",
+        "cancer_type": "Esophagogastric Cancer"
+      },
+      "prediction": {
+        "tank_score": 0,
+        "ferrari_score": 0,
+        "display_risk": 0,
+        "resistance_risk": 0,
+        "veto_triggered": false,
+        "primary_drivers": [],
+        "alert_level": "UNKNOWN"
+      }
+    }
+  ]
+}

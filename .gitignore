@@ -1,0 +1,22 @@
+# CHIAVI E SICUREZZA
+alphagnome_key.txt
+google_api_key.txt
+cancer-*.json
+*.env
+
+# AMBIENTI E CACHE
+venv/
+env/
+__pycache__/
+
+# DATI PESANTI E ARCHIVI
+_ARCHIVE_PRE_v18/
+DATASET/
+data/*
+!data/README.md
+!data/.gitkeep
+
+# OUTPUT
+models/
+reports/
+exports/

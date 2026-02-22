@@ -1,0 +1,56 @@
+# SENTINEL Docker Compose
+# For local development and production deployment
+
+version: '3.8'
+
+services:
+  sentinel-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sentinel-api
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app/src
+      - LOG_LEVEL=INFO
+    volumes:
+      # Mount data directory for patient files
+      - ./data:/app/data:ro
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+  # Optional: Redis for caching (future)
+  # redis:
+  #   image: redis:7-alpine
+  #   container_name: sentinel-redis
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis-data:/data
+  #   healthcheck:
+  #     test: ["CMD", "redis-cli", "ping"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 3
+
+# volumes:
+#   redis-data:
+
+networks:
+  default:
+    name: sentinel-network

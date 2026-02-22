@@ -1,0 +1,8984 @@
+[
+  {
+    "id": "HEALTHY_000",
+    "sex": "M",
+    "age_2015": 45,
+    "history": [
+      {
+        "date": "2015-06-10",
+        "blood": {
+          "glucose": 89.4,
+          "ldh": 182.8,
+          "crp": 0.7,
+          "neutrophils": 4360.0
+        },
+        "clinical": {
+          "weight": 75.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-24",
+        "blood": {
+          "glucose": 89.8,
+          "ldh": 153.0,
+          "crp": 1.0,
+          "neutrophils": 4222.0
+        },
+        "clinical": {
+          "weight": 73.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-06",
+        "blood": {
+          "glucose": 88.2,
+          "ldh": 131.3,
+          "crp": 0.1,
+          "neutrophils": 4163.0
+        },
+        "clinical": {
+          "weight": 72.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-10",
+        "blood": {
+          "glucose": 88.4,
+          "ldh": 146.4,
+          "crp": 0.2,
+          "neutrophils": 5379.0
+        },
+        "clinical": {
+          "weight": 73.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-03",
+        "blood": {
+          "glucose": 87.7,
+          "ldh": 138.6,
+          "crp": 0.6,
+          "neutrophils": 4567.0
+        },
+        "clinical": {
+          "weight": 72.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-10",
+        "blood": {
+          "glucose": 88.6,
+          "ldh": 151.0,
+          "crp": 0.7,
+          "neutrophils": 4139.0
+        },
+        "clinical": {
+          "weight": 75.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_001",
+    "sex": "M",
+    "age_2015": 50,
+    "history": [
+      {
+        "date": "2015-05-14",
+        "blood": {
+          "glucose": 87.4,
+          "ldh": 141.7,
+          "crp": 0.9,
+          "neutrophils": 3324.0
+        },
+        "clinical": {
+          "weight": 65.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-28",
+        "blood": {
+          "glucose": 85.5,
+          "ldh": 171.1,
+          "crp": 0.9,
+          "neutrophils": 4431.0
+        },
+        "clinical": {
+          "weight": 66.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-10",
+        "blood": {
+          "glucose": 80.5,
+          "ldh": 149.2,
+          "crp": 0.6,
+          "neutrophils": 5134.0
+        },
+        "clinical": {
+          "weight": 66.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-22",
+        "blood": {
+          "glucose": 79.6,
+          "ldh": 164.9,
+          "crp": 0.6,
+          "neutrophils": 4094.0
+        },
+        "clinical": {
+          "weight": 67.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-08",
+        "blood": {
+          "glucose": 88.0,
+          "ldh": 174.0,
+          "crp": 0.5,
+          "neutrophils": 4314.0
+        },
+        "clinical": {
+          "weight": 66.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_002",
+    "sex": "M",
+    "age_2015": 69,
+    "history": [
+      {
+        "date": "2015-06-14",
+        "blood": {
+          "glucose": 89.3,
+          "ldh": 143.4,
+          "crp": 0.3,
+          "neutrophils": 4988.0
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-29",
+        "blood": {
+          "glucose": 89.7,
+          "ldh": 175.1,
+          "crp": 0.9,
+          "neutrophils": 4113.0
+        },
+        "clinical": {
+          "weight": 71.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-14",
+        "blood": {
+          "glucose": 94.5,
+          "ldh": 159.5,
+          "crp": 1.4,
+          "neutrophils": 2928.0
+        },
+        "clinical": {
+          "weight": 72.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-17",
+        "blood": {
+          "glucose": 90.1,
+          "ldh": 155.5,
+          "crp": 0.8,
+          "neutrophils": 3307.0
+        },
+        "clinical": {
+          "weight": 70.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-06",
+        "blood": {
+          "glucose": 90.9,
+          "ldh": 182.2,
+          "crp": 0.6,
+          "neutrophils": 4015.0
+        },
+        "clinical": {
+          "weight": 70.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-13",
+        "blood": {
+          "glucose": 92.6,
+          "ldh": 164.9,
+          "crp": 0.6,
+          "neutrophils": 4808.0
+        },
+        "clinical": {
+          "weight": 71.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_003",
+    "sex": "M",
+    "age_2015": 54,
+    "history": [
+      {
+        "date": "2015-06-04",
+        "blood": {
+          "glucose": 88.9,
+          "ldh": 154.1,
+          "crp": 0.2,
+          "neutrophils": 4678.0
+        },
+        "clinical": {
+          "weight": 69.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-30",
+        "blood": {
+          "glucose": 89.9,
+          "ldh": 156.5,
+          "crp": 0.2,
+          "neutrophils": 4248.0
+        },
+        "clinical": {
+          "weight": 69.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-03",
+        "blood": {
+          "glucose": 87.4,
+          "ldh": 157.6,
+          "crp": 1.0,
+          "neutrophils": 5632.0
+        },
+        "clinical": {
+          "weight": 69.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-10",
+        "blood": {
+          "glucose": 90.6,
+          "ldh": 158.9,
+          "crp": 0.0,
+          "neutrophils": 4484.0
+        },
+        "clinical": {
+          "weight": 69.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-03",
+        "blood": {
+          "glucose": 97.2,
+          "ldh": 157.1,
+          "crp": 0.9,
+          "neutrophils": 4479.0
+        },
+        "clinical": {
+          "weight": 68.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-13",
+        "blood": {
+          "glucose": 93.3,
+          "ldh": 171.3,
+          "crp": 1.1,
+          "neutrophils": 3954.0
+        },
+        "clinical": {
+          "weight": 70.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_004",
+    "sex": "F",
+    "age_2015": 44,
+    "history": [
+      {
+        "date": "2015-06-19",
+        "blood": {
+          "glucose": 84.6,
+          "ldh": 145.1,
+          "crp": 0.6,
+          "neutrophils": 4560.0
+        },
+        "clinical": {
+          "weight": 79.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-22",
+        "blood": {
+          "glucose": 73.3,
+          "ldh": 161.0,
+          "crp": 0.4,
+          "neutrophils": 4784.0
+        },
+        "clinical": {
+          "weight": 78.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-14",
+        "blood": {
+          "glucose": 82.6,
+          "ldh": 148.3,
+          "crp": 0.7,
+          "neutrophils": 4988.0
+        },
+        "clinical": {
+          "weight": 78.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-29",
+        "blood": {
+          "glucose": 78.7,
+          "ldh": 179.6,
+          "crp": 0.2,
+          "neutrophils": 4611.0
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-18",
+        "blood": {
+          "glucose": 80.3,
+          "ldh": 141.4,
+          "crp": 0.3,
+          "neutrophils": 4813.0
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-11",
+        "blood": {
+          "glucose": 78.7,
+          "ldh": 165.2,
+          "crp": 0.5,
+          "neutrophils": 4639.0
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_005",
+    "sex": "M",
+    "age_2015": 54,
+    "history": [
+      {
+        "date": "2015-06-08",
+        "blood": {
+          "glucose": 82.8,
+          "ldh": 142.1,
+          "crp": 1.1,
+          "neutrophils": 3915.0
+        },
+        "clinical": {
+          "weight": 90.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-09",
+        "blood": {
+          "glucose": 84.9,
+          "ldh": 147.7,
+          "crp": 1.2,
+          "neutrophils": 4748.0
+        },
+        "clinical": {
+          "weight": 90.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-18",
+        "blood": {
+          "glucose": 87.1,
+          "ldh": 156.3,
+          "crp": 0.5,
+          "neutrophils": 3966.0
+        },
+        "clinical": {
+          "weight": 89.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-02",
+        "blood": {
+          "glucose": 81.2,
+          "ldh": 165.1,
+          "crp": 0.9,
+          "neutrophils": 4996.0
+        },
+        "clinical": {
+          "weight": 89.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-09",
+        "blood": {
+          "glucose": 85.8,
+          "ldh": 156.0,
+          "crp": 1.9,
+          "neutrophils": 4875.0
+        },
+        "clinical": {
+          "weight": 89.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-23",
+        "blood": {
+          "glucose": 78.2,
+          "ldh": 167.2,
+          "crp": 0.7,
+          "neutrophils": 4928.0
+        },
+        "clinical": {
+          "weight": 90.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_006",
+    "sex": "F",
+    "age_2015": 49,
+    "history": [
+      {
+        "date": "2015-11-09",
+        "blood": {
+          "glucose": 80.1,
+          "ldh": 153.3,
+          "crp": 1.1,
+          "neutrophils": 4628.0
+        },
+        "clinical": {
+          "weight": 67.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-12",
+        "blood": {
+          "glucose": 85.2,
+          "ldh": 165.8,
+          "crp": 0.4,
+          "neutrophils": 4592.0
+        },
+        "clinical": {
+          "weight": 68.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-08",
+        "blood": {
+          "glucose": 81.2,
+          "ldh": 165.4,
+          "crp": 1.0,
+          "neutrophils": 5150.0
+        },
+        "clinical": {
+          "weight": 69.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-20",
+        "blood": {
+          "glucose": 80.5,
+          "ldh": 145.9,
+          "crp": 1.0,
+          "neutrophils": 4808.0
+        },
+        "clinical": {
+          "weight": 68.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-31",
+        "blood": {
+          "glucose": 96.2,
+          "ldh": 168.6,
+          "crp": 1.3,
+          "neutrophils": 5072.0
+        },
+        "clinical": {
+          "weight": 68.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_007",
+    "sex": "M",
+    "age_2015": 43,
+    "history": [
+      {
+        "date": "2015-05-17",
+        "blood": {
+          "glucose": 81.1,
+          "ldh": 156.4,
+          "crp": 0.6,
+          "neutrophils": 4549.0
+        },
+        "clinical": {
+          "weight": 83.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-31",
+        "blood": {
+          "glucose": 77.8,
+          "ldh": 170.3,
+          "crp": 0.2,
+          "neutrophils": 4217.0
+        },
+        "clinical": {
+          "weight": 82.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-15",
+        "blood": {
+          "glucose": 83.6,
+          "ldh": 143.8,
+          "crp": 0.5,
+          "neutrophils": 4908.0
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-09",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 160.7,
+          "crp": 0.5,
+          "neutrophils": 5786.0
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-01",
+        "blood": {
+          "glucose": 77.3,
+          "ldh": 162.8,
+          "crp": 0.5,
+          "neutrophils": 5011.0
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-09",
+        "blood": {
+          "glucose": 83.1,
+          "ldh": 167.6,
+          "crp": 1.1,
+          "neutrophils": 3780.0
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_008",
+    "sex": "M",
+    "age_2015": 47,
+    "history": [
+      {
+        "date": "2015-06-25",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 166.1,
+          "crp": 0.3,
+          "neutrophils": 5051.0
+        },
+        "clinical": {
+          "weight": 71.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-02",
+        "blood": {
+          "glucose": 85.7,
+          "ldh": 137.2,
+          "crp": 0.6,
+          "neutrophils": 5260.0
+        },
+        "clinical": {
+          "weight": 69.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-13",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 171.6,
+          "crp": 0.4,
+          "neutrophils": 4464.0
+        },
+        "clinical": {
+          "weight": 66.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-14",
+        "blood": {
+          "glucose": 79.6,
+          "ldh": 156.2,
+          "crp": 0.3,
+          "neutrophils": 5479.0
+        },
+        "clinical": {
+          "weight": 68.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-19",
+        "blood": {
+          "glucose": 81.3,
+          "ldh": 162.0,
+          "crp": 1.4,
+          "neutrophils": 3638.0
+        },
+        "clinical": {
+          "weight": 70.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-22",
+        "blood": {
+          "glucose": 82.7,
+          "ldh": 145.3,
+          "crp": 1.0,
+          "neutrophils": 4619.0
+        },
+        "clinical": {
+          "weight": 69.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_009",
+    "sex": "F",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-06-13",
+        "blood": {
+          "glucose": 85.7,
+          "ldh": 169.9,
+          "crp": 1.4,
+          "neutrophils": 3757.0
+        },
+        "clinical": {
+          "weight": 74.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-28",
+        "blood": {
+          "glucose": 79.5,
+          "ldh": 157.7,
+          "crp": 1.0,
+          "neutrophils": 4669.0
+        },
+        "clinical": {
+          "weight": 71.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-07",
+        "blood": {
+          "glucose": 84.7,
+          "ldh": 152.6,
+          "crp": 0.6,
+          "neutrophils": 5010.0
+        },
+        "clinical": {
+          "weight": 72.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-22",
+        "blood": {
+          "glucose": 83.3,
+          "ldh": 173.5,
+          "crp": 0.9,
+          "neutrophils": 4988.0
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-03",
+        "blood": {
+          "glucose": 82.9,
+          "ldh": 151.6,
+          "crp": 1.1,
+          "neutrophils": 4866.0
+        },
+        "clinical": {
+          "weight": 71.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_010",
+    "sex": "M",
+    "age_2015": 60,
+    "history": [
+      {
+        "date": "2015-06-18",
+        "blood": {
+          "glucose": 83.8,
+          "ldh": 168.2,
+          "crp": 0.7,
+          "neutrophils": 4369.0
+        },
+        "clinical": {
+          "weight": 86.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-13",
+        "blood": {
+          "glucose": 88.1,
+          "ldh": 172.2,
+          "crp": 1.3,
+          "neutrophils": 4513.0
+        },
+        "clinical": {
+          "weight": 85.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-21",
+        "blood": {
+          "glucose": 84.7,
+          "ldh": 164.9,
+          "crp": 0.7,
+          "neutrophils": 4558.0
+        },
+        "clinical": {
+          "weight": 85.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-28",
+        "blood": {
+          "glucose": 83.1,
+          "ldh": 191.4,
+          "crp": 0.4,
+          "neutrophils": 3771.0
+        },
+        "clinical": {
+          "weight": 86.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-09",
+        "blood": {
+          "glucose": 88.0,
+          "ldh": 169.4,
+          "crp": 1.1,
+          "neutrophils": 4493.0
+        },
+        "clinical": {
+          "weight": 84.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-24",
+        "blood": {
+          "glucose": 85.8,
+          "ldh": 149.8,
+          "crp": 1.2,
+          "neutrophils": 4412.0
+        },
+        "clinical": {
+          "weight": 84.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_011",
+    "sex": "F",
+    "age_2015": 44,
+    "history": [
+      {
+        "date": "2015-11-27",
+        "blood": {
+          "glucose": 81.7,
+          "ldh": 147.7,
+          "crp": 0.9,
+          "neutrophils": 4647.0
+        },
+        "clinical": {
+          "weight": 77.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-18",
+        "blood": {
+          "glucose": 82.0,
+          "ldh": 163.5,
+          "crp": 0.2,
+          "neutrophils": 3656.0
+        },
+        "clinical": {
+          "weight": 77.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-25",
+        "blood": {
+          "glucose": 82.8,
+          "ldh": 164.7,
+          "crp": 1.4,
+          "neutrophils": 5015.0
+        },
+        "clinical": {
+          "weight": 78.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_012",
+    "sex": "M",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-06-18",
+        "blood": {
+          "glucose": 84.8,
+          "ldh": 155.7,
+          "crp": 0.9,
+          "neutrophils": 4004.0
+        },
+        "clinical": {
+          "weight": 67.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-24",
+        "blood": {
+          "glucose": 89.5,
+          "ldh": 158.4,
+          "crp": 1.0,
+          "neutrophils": 4914.0
+        },
+        "clinical": {
+          "weight": 66.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-22",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 160.2,
+          "crp": 0.8,
+          "neutrophils": 4036.0
+        },
+        "clinical": {
+          "weight": 67.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-30",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 181.8,
+          "crp": 1.2,
+          "neutrophils": 5792.0
+        },
+        "clinical": {
+          "weight": 66.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-21",
+        "blood": {
+          "glucose": 87.5,
+          "ldh": 162.8,
+          "crp": 1.7,
+          "neutrophils": 4015.0
+        },
+        "clinical": {
+          "weight": 66.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-03",
+        "blood": {
+          "glucose": 83.1,
+          "ldh": 128.1,
+          "crp": 0.6,
+          "neutrophils": 4045.0
+        },
+        "clinical": {
+          "weight": 67.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_013",
+    "sex": "M",
+    "age_2015": 40,
+    "history": [
+      {
+        "date": "2015-05-26",
+        "blood": {
+          "glucose": 89.6,
+          "ldh": 151.3,
+          "crp": 0.4,
+          "neutrophils": 4795.0
+        },
+        "clinical": {
+          "weight": 88.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-03",
+        "blood": {
+          "glucose": 92.2,
+          "ldh": 177.7,
+          "crp": 0.6,
+          "neutrophils": 3472.0
+        },
+        "clinical": {
+          "weight": 91.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-28",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 178.6,
+          "crp": 0.2,
+          "neutrophils": 4140.0
+        },
+        "clinical": {
+          "weight": 90.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-02",
+        "blood": {
+          "glucose": 86.8,
+          "ldh": 153.2,
+          "crp": 1.0,
+          "neutrophils": 3859.0
+        },
+        "clinical": {
+          "weight": 89.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-04",
+        "blood": {
+          "glucose": 87.1,
+          "ldh": 167.7,
+          "crp": 1.1,
+          "neutrophils": 3825.0
+        },
+        "clinical": {
+          "weight": 88.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-10",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 165.0,
+          "crp": 0.5,
+          "neutrophils": 5431.0
+        },
+        "clinical": {
+          "weight": 90.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_014",
+    "sex": "M",
+    "age_2015": 70,
+    "history": [
+      {
+        "date": "2015-05-05",
+        "blood": {
+          "glucose": 97.1,
+          "ldh": 186.3,
+          "crp": 0.7,
+          "neutrophils": 5083.0
+        },
+        "clinical": {
+          "weight": 76.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-05",
+        "blood": {
+          "glucose": 95.0,
+          "ldh": 145.5,
+          "crp": 1.1,
+          "neutrophils": 5135.0
+        },
+        "clinical": {
+          "weight": 73.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-01",
+        "blood": {
+          "glucose": 87.3,
+          "ldh": 129.4,
+          "crp": 0.7,
+          "neutrophils": 4931.0
+        },
+        "clinical": {
+          "weight": 77.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-01",
+        "blood": {
+          "glucose": 91.1,
+          "ldh": 184.4,
+          "crp": 0.2,
+          "neutrophils": 3478.0
+        },
+        "clinical": {
+          "weight": 75.5
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_015",
+    "sex": "M",
+    "age_2015": 43,
+    "history": [
+      {
+        "date": "2015-05-16",
+        "blood": {
+          "glucose": 80.7,
+          "ldh": 158.7,
+          "crp": 0.3,
+          "neutrophils": 4902.0
+        },
+        "clinical": {
+          "weight": 75.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-03",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 152.3,
+          "crp": 0.4,
+          "neutrophils": 4462.0
+        },
+        "clinical": {
+          "weight": 75.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-02",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 167.6,
+          "crp": 0.6,
+          "neutrophils": 4024.0
+        },
+        "clinical": {
+          "weight": 74.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-26",
+        "blood": {
+          "glucose": 83.8,
+          "ldh": 151.7,
+          "crp": 0.3,
+          "neutrophils": 5679.0
+        },
+        "clinical": {
+          "weight": 74.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_016",
+    "sex": "M",
+    "age_2015": 68,
+    "history": [
+      {
+        "date": "2015-05-26",
+        "blood": {
+          "glucose": 81.2,
+          "ldh": 156.7,
+          "crp": 1.0,
+          "neutrophils": 4955.0
+        },
+        "clinical": {
+          "weight": 76.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-13",
+        "blood": {
+          "glucose": 79.8,
+          "ldh": 155.9,
+          "crp": 0.1,
+          "neutrophils": 3591.0
+        },
+        "clinical": {
+          "weight": 78.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-27",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 156.3,
+          "crp": 1.0,
+          "neutrophils": 4687.0
+        },
+        "clinical": {
+          "weight": 79.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-28",
+        "blood": {
+          "glucose": 84.9,
+          "ldh": 158.1,
+          "crp": 0.4,
+          "neutrophils": 3536.0
+        },
+        "clinical": {
+          "weight": 76.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-22",
+        "blood": {
+          "glucose": 79.2,
+          "ldh": 138.7,
+          "crp": 0.5,
+          "neutrophils": 3851.0
+        },
+        "clinical": {
+          "weight": 78.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-20",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 159.9,
+          "crp": 1.4,
+          "neutrophils": 4546.0
+        },
+        "clinical": {
+          "weight": 75.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_017",
+    "sex": "F",
+    "age_2015": 71,
+    "history": [
+      {
+        "date": "2015-06-21",
+        "blood": {
+          "glucose": 89.5,
+          "ldh": 157.1,
+          "crp": 0.4,
+          "neutrophils": 3670.0
+        },
+        "clinical": {
+          "weight": 80.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-02",
+        "blood": {
+          "glucose": 98.3,
+          "ldh": 139.0,
+          "crp": 1.0,
+          "neutrophils": 4110.0
+        },
+        "clinical": {
+          "weight": 78.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-24",
+        "blood": {
+          "glucose": 90.8,
+          "ldh": 147.0,
+          "crp": 0.8,
+          "neutrophils": 4001.0
+        },
+        "clinical": {
+          "weight": 79.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-17",
+        "blood": {
+          "glucose": 92.5,
+          "ldh": 156.4,
+          "crp": 0.4,
+          "neutrophils": 4154.0
+        },
+        "clinical": {
+          "weight": 80.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_018",
+    "sex": "F",
+    "age_2015": 49,
+    "history": [
+      {
+        "date": "2015-05-31",
+        "blood": {
+          "glucose": 87.8,
+          "ldh": 171.3,
+          "crp": 0.1,
+          "neutrophils": 4826.0
+        },
+        "clinical": {
+          "weight": 66.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-23",
+        "blood": {
+          "glucose": 89.2,
+          "ldh": 148.6,
+          "crp": 0.1,
+          "neutrophils": 3523.0
+        },
+        "clinical": {
+          "weight": 67.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-01",
+        "blood": {
+          "glucose": 88.3,
+          "ldh": 146.4,
+          "crp": 1.1,
+          "neutrophils": 3503.0
+        },
+        "clinical": {
+          "weight": 67.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-23",
+        "blood": {
+          "glucose": 83.9,
+          "ldh": 150.2,
+          "crp": 0.8,
+          "neutrophils": 3984.0
+        },
+        "clinical": {
+          "weight": 66.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-09",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 151.3,
+          "crp": 1.1,
+          "neutrophils": 3822.0
+        },
+        "clinical": {
+          "weight": 67.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-27",
+        "blood": {
+          "glucose": 91.8,
+          "ldh": 122.9,
+          "crp": 0.5,
+          "neutrophils": 4846.0
+        },
+        "clinical": {
+          "weight": 67.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_019",
+    "sex": "M",
+    "age_2015": 43,
+    "history": [
+      {
+        "date": "2015-05-13",
+        "blood": {
+          "glucose": 87.1,
+          "ldh": 157.7,
+          "crp": 1.3,
+          "neutrophils": 4653.0
+        },
+        "clinical": {
+          "weight": 70.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-13",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 152.7,
+          "crp": 0.6,
+          "neutrophils": 4737.0
+        },
+        "clinical": {
+          "weight": 69.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-07",
+        "blood": {
+          "glucose": 87.7,
+          "ldh": 191.1,
+          "crp": 1.1,
+          "neutrophils": 4304.0
+        },
+        "clinical": {
+          "weight": 71.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-03",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 129.4,
+          "crp": 0.4,
+          "neutrophils": 3378.0
+        },
+        "clinical": {
+          "weight": 69.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_020",
+    "sex": "M",
+    "age_2015": 45,
+    "history": [
+      {
+        "date": "2016-02-12",
+        "blood": {
+          "glucose": 86.1,
+          "ldh": 156.7,
+          "crp": 1.1,
+          "neutrophils": 3173.0
+        },
+        "clinical": {
+          "weight": 88.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-06-26",
+        "blood": {
+          "glucose": 87.4,
+          "ldh": 137.8,
+          "crp": 1.3,
+          "neutrophils": 4703.0
+        },
+        "clinical": {
+          "weight": 88.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-23",
+        "blood": {
+          "glucose": 87.0,
+          "ldh": 194.1,
+          "crp": 0.9,
+          "neutrophils": 4649.0
+        },
+        "clinical": {
+          "weight": 88.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-07",
+        "blood": {
+          "glucose": 82.5,
+          "ldh": 172.5,
+          "crp": 0.5,
+          "neutrophils": 4543.0
+        },
+        "clinical": {
+          "weight": 87.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_021",
+    "sex": "F",
+    "age_2015": 69,
+    "history": [
+      {
+        "date": "2015-05-27",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 152.3,
+          "crp": 0.7,
+          "neutrophils": 3913.0
+        },
+        "clinical": {
+          "weight": 77.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-30",
+        "blood": {
+          "glucose": 88.5,
+          "ldh": 171.4,
+          "crp": 0.4,
+          "neutrophils": 5022.0
+        },
+        "clinical": {
+          "weight": 79.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-26",
+        "blood": {
+          "glucose": 88.6,
+          "ldh": 188.2,
+          "crp": 0.5,
+          "neutrophils": 3753.0
+        },
+        "clinical": {
+          "weight": 75.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-05",
+        "blood": {
+          "glucose": 91.9,
+          "ldh": 169.8,
+          "crp": 0.8,
+          "neutrophils": 4668.0
+        },
+        "clinical": {
+          "weight": 76.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-17",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 161.9,
+          "crp": 0.8,
+          "neutrophils": 4935.0
+        },
+        "clinical": {
+          "weight": 78.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-25",
+        "blood": {
+          "glucose": 88.1,
+          "ldh": 148.1,
+          "crp": 1.0,
+          "neutrophils": 5629.0
+        },
+        "clinical": {
+          "weight": 79.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_022",
+    "sex": "F",
+    "age_2015": 44,
+    "history": [
+      {
+        "date": "2015-05-21",
+        "blood": {
+          "glucose": 90.0,
+          "ldh": 158.1,
+          "crp": 0.8,
+          "neutrophils": 5157.0
+        },
+        "clinical": {
+          "weight": 69.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-13",
+        "blood": {
+          "glucose": 97.6,
+          "ldh": 157.6,
+          "crp": 0.6,
+          "neutrophils": 3893.0
+        },
+        "clinical": {
+          "weight": 69.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-16",
+        "blood": {
+          "glucose": 95.4,
+          "ldh": 161.1,
+          "crp": 0.3,
+          "neutrophils": 3723.0
+        },
+        "clinical": {
+          "weight": 70.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-18",
+        "blood": {
+          "glucose": 98.0,
+          "ldh": 156.1,
+          "crp": 0.2,
+          "neutrophils": 4353.0
+        },
+        "clinical": {
+          "weight": 70.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-19",
+        "blood": {
+          "glucose": 84.9,
+          "ldh": 159.2,
+          "crp": 0.7,
+          "neutrophils": 4918.0
+        },
+        "clinical": {
+          "weight": 72.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_023",
+    "sex": "F",
+    "age_2015": 46,
+    "history": [
+      {
+        "date": "2015-06-26",
+        "blood": {
+          "glucose": 87.3,
+          "ldh": 198.6,
+          "crp": 0.8,
+          "neutrophils": 4508.0
+        },
+        "clinical": {
+          "weight": 72.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-11",
+        "blood": {
+          "glucose": 91.2,
+          "ldh": 157.8,
+          "crp": 0.6,
+          "neutrophils": 4172.0
+        },
+        "clinical": {
+          "weight": 72.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-02",
+        "blood": {
+          "glucose": 89.0,
+          "ldh": 149.3,
+          "crp": 0.8,
+          "neutrophils": 4347.0
+        },
+        "clinical": {
+          "weight": 74.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-18",
+        "blood": {
+          "glucose": 82.7,
+          "ldh": 176.4,
+          "crp": 1.3,
+          "neutrophils": 3256.0
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-08",
+        "blood": {
+          "glucose": 89.5,
+          "ldh": 138.9,
+          "crp": 0.5,
+          "neutrophils": 3834.0
+        },
+        "clinical": {
+          "weight": 74.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-06",
+        "blood": {
+          "glucose": 93.4,
+          "ldh": 179.1,
+          "crp": 1.1,
+          "neutrophils": 3823.0
+        },
+        "clinical": {
+          "weight": 72.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_024",
+    "sex": "F",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-06-30",
+        "blood": {
+          "glucose": 89.6,
+          "ldh": 156.4,
+          "crp": 0.7,
+          "neutrophils": 4927.0
+        },
+        "clinical": {
+          "weight": 65.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-13",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 177.4,
+          "crp": 0.4,
+          "neutrophils": 4870.0
+        },
+        "clinical": {
+          "weight": 65.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-18",
+        "blood": {
+          "glucose": 86.5,
+          "ldh": 164.9,
+          "crp": 0.3,
+          "neutrophils": 5054.0
+        },
+        "clinical": {
+          "weight": 65.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-25",
+        "blood": {
+          "glucose": 85.9,
+          "ldh": 175.7,
+          "crp": 0.5,
+          "neutrophils": 3655.0
+        },
+        "clinical": {
+          "weight": 63.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-30",
+        "blood": {
+          "glucose": 89.3,
+          "ldh": 140.8,
+          "crp": 1.5,
+          "neutrophils": 3251.0
+        },
+        "clinical": {
+          "weight": 66.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-20",
+        "blood": {
+          "glucose": 88.1,
+          "ldh": 158.5,
+          "crp": 0.6,
+          "neutrophils": 4739.0
+        },
+        "clinical": {
+          "weight": 65.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_025",
+    "sex": "F",
+    "age_2015": 50,
+    "history": [
+      {
+        "date": "2015-06-01",
+        "blood": {
+          "glucose": 91.0,
+          "ldh": 154.5,
+          "crp": 0.8,
+          "neutrophils": 4685.0
+        },
+        "clinical": {
+          "weight": 74.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-26",
+        "blood": {
+          "glucose": 86.5,
+          "ldh": 171.1,
+          "crp": 0.9,
+          "neutrophils": 4390.0
+        },
+        "clinical": {
+          "weight": 75.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-30",
+        "blood": {
+          "glucose": 91.6,
+          "ldh": 151.9,
+          "crp": 0.5,
+          "neutrophils": 4618.0
+        },
+        "clinical": {
+          "weight": 74.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-19",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 134.5,
+          "crp": 1.2,
+          "neutrophils": 4784.0
+        },
+        "clinical": {
+          "weight": 76.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-17",
+        "blood": {
+          "glucose": 93.5,
+          "ldh": 185.0,
+          "crp": 1.2,
+          "neutrophils": 3395.0
+        },
+        "clinical": {
+          "weight": 74.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-25",
+        "blood": {
+          "glucose": 88.6,
+          "ldh": 160.4,
+          "crp": 1.0,
+          "neutrophils": 4065.0
+        },
+        "clinical": {
+          "weight": 76.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_026",
+    "sex": "M",
+    "age_2015": 67,
+    "history": [
+      {
+        "date": "2015-06-17",
+        "blood": {
+          "glucose": 77.0,
+          "ldh": 146.2,
+          "crp": 0.3,
+          "neutrophils": 3914.0
+        },
+        "clinical": {
+          "weight": 71.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-29",
+        "blood": {
+          "glucose": 78.4,
+          "ldh": 199.5,
+          "crp": 1.0,
+          "neutrophils": 4611.0
+        },
+        "clinical": {
+          "weight": 69.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-28",
+        "blood": {
+          "glucose": 83.3,
+          "ldh": 151.4,
+          "crp": 0.8,
+          "neutrophils": 6036.0
+        },
+        "clinical": {
+          "weight": 70.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-24",
+        "blood": {
+          "glucose": 84.7,
+          "ldh": 149.5,
+          "crp": 0.8,
+          "neutrophils": 5562.0
+        },
+        "clinical": {
+          "weight": 69.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-20",
+        "blood": {
+          "glucose": 86.7,
+          "ldh": 170.6,
+          "crp": 0.6,
+          "neutrophils": 4879.0
+        },
+        "clinical": {
+          "weight": 71.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-20",
+        "blood": {
+          "glucose": 83.1,
+          "ldh": 136.4,
+          "crp": 0.5,
+          "neutrophils": 4351.0
+        },
+        "clinical": {
+          "weight": 70.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_027",
+    "sex": "F",
+    "age_2015": 49,
+    "history": [
+      {
+        "date": "2015-09-29",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 165.7,
+          "crp": 1.0,
+          "neutrophils": 4836.0
+        },
+        "clinical": {
+          "weight": 77.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-17",
+        "blood": {
+          "glucose": 90.6,
+          "ldh": 166.9,
+          "crp": 0.8,
+          "neutrophils": 3503.0
+        },
+        "clinical": {
+          "weight": 76.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-17",
+        "blood": {
+          "glucose": 88.7,
+          "ldh": 164.1,
+          "crp": 0.3,
+          "neutrophils": 3851.0
+        },
+        "clinical": {
+          "weight": 77.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-27",
+        "blood": {
+          "glucose": 88.0,
+          "ldh": 170.2,
+          "crp": 0.8,
+          "neutrophils": 4518.0
+        },
+        "clinical": {
+          "weight": 77.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-08",
+        "blood": {
+          "glucose": 86.6,
+          "ldh": 161.4,
+          "crp": 0.6,
+          "neutrophils": 4239.0
+        },
+        "clinical": {
+          "weight": 76.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_028",
+    "sex": "F",
+    "age_2015": 55,
+    "history": [
+      {
+        "date": "2015-06-29",
+        "blood": {
+          "glucose": 89.9,
+          "ldh": 146.6,
+          "crp": 0.7,
+          "neutrophils": 4236.0
+        },
+        "clinical": {
+          "weight": 72.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-21",
+        "blood": {
+          "glucose": 86.7,
+          "ldh": 175.5,
+          "crp": 0.2,
+          "neutrophils": 4660.0
+        },
+        "clinical": {
+          "weight": 72.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-06-09",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 176.0,
+          "crp": 0.6,
+          "neutrophils": 5346.0
+        },
+        "clinical": {
+          "weight": 73.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-02",
+        "blood": {
+          "glucose": 85.0,
+          "ldh": 153.3,
+          "crp": 1.4,
+          "neutrophils": 5448.0
+        },
+        "clinical": {
+          "weight": 70.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-12",
+        "blood": {
+          "glucose": 84.9,
+          "ldh": 155.8,
+          "crp": 0.3,
+          "neutrophils": 3949.0
+        },
+        "clinical": {
+          "weight": 70.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-31",
+        "blood": {
+          "glucose": 83.8,
+          "ldh": 159.5,
+          "crp": 0.9,
+          "neutrophils": 5430.0
+        },
+        "clinical": {
+          "weight": 70.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_029",
+    "sex": "M",
+    "age_2015": 54,
+    "history": [
+      {
+        "date": "2015-05-18",
+        "blood": {
+          "glucose": 89.8,
+          "ldh": 170.1,
+          "crp": 0.4,
+          "neutrophils": 4729.0
+        },
+        "clinical": {
+          "weight": 73.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-29",
+        "blood": {
+          "glucose": 91.4,
+          "ldh": 164.3,
+          "crp": 1.8,
+          "neutrophils": 4117.0
+        },
+        "clinical": {
+          "weight": 72.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-18",
+        "blood": {
+          "glucose": 88.1,
+          "ldh": 151.7,
+          "crp": 0.5,
+          "neutrophils": 5213.0
+        },
+        "clinical": {
+          "weight": 74.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-09",
+        "blood": {
+          "glucose": 88.2,
+          "ldh": 147.5,
+          "crp": 1.0,
+          "neutrophils": 4169.0
+        },
+        "clinical": {
+          "weight": 73.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-29",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 137.3,
+          "crp": 1.4,
+          "neutrophils": 5578.0
+        },
+        "clinical": {
+          "weight": 72.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_030",
+    "sex": "F",
+    "age_2015": 41,
+    "history": [
+      {
+        "date": "2015-05-02",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 169.9,
+          "crp": 1.6,
+          "neutrophils": 4394.0
+        },
+        "clinical": {
+          "weight": 76.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-24",
+        "blood": {
+          "glucose": 78.9,
+          "ldh": 149.0,
+          "crp": 0.8,
+          "neutrophils": 5577.0
+        },
+        "clinical": {
+          "weight": 76.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-02",
+        "blood": {
+          "glucose": 83.7,
+          "ldh": 159.8,
+          "crp": 1.3,
+          "neutrophils": 6016.0
+        },
+        "clinical": {
+          "weight": 76.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-10",
+        "blood": {
+          "glucose": 81.6,
+          "ldh": 175.7,
+          "crp": 1.1,
+          "neutrophils": 5608.0
+        },
+        "clinical": {
+          "weight": 77.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-23",
+        "blood": {
+          "glucose": 82.0,
+          "ldh": 168.9,
+          "crp": 1.2,
+          "neutrophils": 4992.0
+        },
+        "clinical": {
+          "weight": 77.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_031",
+    "sex": "M",
+    "age_2015": 64,
+    "history": [
+      {
+        "date": "2015-05-08",
+        "blood": {
+          "glucose": 94.5,
+          "ldh": 169.7,
+          "crp": 0.7,
+          "neutrophils": 4588.0
+        },
+        "clinical": {
+          "weight": 85.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-21",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 165.5,
+          "crp": 0.6,
+          "neutrophils": 4517.0
+        },
+        "clinical": {
+          "weight": 85.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-11",
+        "blood": {
+          "glucose": 90.9,
+          "ldh": 160.7,
+          "crp": 0.3,
+          "neutrophils": 4948.0
+        },
+        "clinical": {
+          "weight": 85.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-24",
+        "blood": {
+          "glucose": 96.8,
+          "ldh": 155.4,
+          "crp": 0.9,
+          "neutrophils": 4650.0
+        },
+        "clinical": {
+          "weight": 85.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-20",
+        "blood": {
+          "glucose": 90.0,
+          "ldh": 164.2,
+          "crp": 1.0,
+          "neutrophils": 4612.0
+        },
+        "clinical": {
+          "weight": 83.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_032",
+    "sex": "M",
+    "age_2015": 63,
+    "history": [
+      {
+        "date": "2015-06-27",
+        "blood": {
+          "glucose": 82.9,
+          "ldh": 162.0,
+          "crp": 0.5,
+          "neutrophils": 5217.0
+        },
+        "clinical": {
+          "weight": 82.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-01",
+        "blood": {
+          "glucose": 84.3,
+          "ldh": 165.7,
+          "crp": 1.4,
+          "neutrophils": 4461.0
+        },
+        "clinical": {
+          "weight": 83.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-13",
+        "blood": {
+          "glucose": 91.6,
+          "ldh": 138.3,
+          "crp": 0.1,
+          "neutrophils": 4764.0
+        },
+        "clinical": {
+          "weight": 83.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-27",
+        "blood": {
+          "glucose": 82.9,
+          "ldh": 170.6,
+          "crp": 0.9,
+          "neutrophils": 4162.0
+        },
+        "clinical": {
+          "weight": 82.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_033",
+    "sex": "F",
+    "age_2015": 65,
+    "history": [
+      {
+        "date": "2015-11-06",
+        "blood": {
+          "glucose": 89.1,
+          "ldh": 187.7,
+          "crp": 0.4,
+          "neutrophils": 3585.0
+        },
+        "clinical": {
+          "weight": 79.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-13",
+        "blood": {
+          "glucose": 89.2,
+          "ldh": 163.7,
+          "crp": 0.7,
+          "neutrophils": 4711.0
+        },
+        "clinical": {
+          "weight": 79.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-04",
+        "blood": {
+          "glucose": 93.7,
+          "ldh": 158.8,
+          "crp": 1.2,
+          "neutrophils": 4706.0
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-30",
+        "blood": {
+          "glucose": 91.1,
+          "ldh": 166.7,
+          "crp": 1.1,
+          "neutrophils": 5297.0
+        },
+        "clinical": {
+          "weight": 80.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-16",
+        "blood": {
+          "glucose": 91.5,
+          "ldh": 158.7,
+          "crp": 1.4,
+          "neutrophils": 4094.0
+        },
+        "clinical": {
+          "weight": 82.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_034",
+    "sex": "M",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-06-14",
+        "blood": {
+          "glucose": 85.2,
+          "ldh": 149.8,
+          "crp": 1.1,
+          "neutrophils": 4108.0
+        },
+        "clinical": {
+          "weight": 63.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-20",
+        "blood": {
+          "glucose": 79.1,
+          "ldh": 153.2,
+          "crp": 0.2,
+          "neutrophils": 3550.0
+        },
+        "clinical": {
+          "weight": 64.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-30",
+        "blood": {
+          "glucose": 87.2,
+          "ldh": 166.4,
+          "crp": 0.4,
+          "neutrophils": 4471.0
+        },
+        "clinical": {
+          "weight": 63.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-09",
+        "blood": {
+          "glucose": 81.3,
+          "ldh": 182.6,
+          "crp": 1.2,
+          "neutrophils": 4367.0
+        },
+        "clinical": {
+          "weight": 63.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-18",
+        "blood": {
+          "glucose": 85.4,
+          "ldh": 129.4,
+          "crp": 0.7,
+          "neutrophils": 4091.0
+        },
+        "clinical": {
+          "weight": 62.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-06",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 187.0,
+          "crp": 1.1,
+          "neutrophils": 4157.0
+        },
+        "clinical": {
+          "weight": 64.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_035",
+    "sex": "M",
+    "age_2015": 45,
+    "history": [
+      {
+        "date": "2015-05-19",
+        "blood": {
+          "glucose": 92.2,
+          "ldh": 150.3,
+          "crp": 1.1,
+          "neutrophils": 4736.0
+        },
+        "clinical": {
+          "weight": 83.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-05",
+        "blood": {
+          "glucose": 93.9,
+          "ldh": 175.7,
+          "crp": 0.6,
+          "neutrophils": 5290.0
+        },
+        "clinical": {
+          "weight": 82.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-14",
+        "blood": {
+          "glucose": 98.2,
+          "ldh": 149.7,
+          "crp": 1.5,
+          "neutrophils": 4619.0
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-09",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 155.2,
+          "crp": 1.0,
+          "neutrophils": 4814.0
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-20",
+        "blood": {
+          "glucose": 91.9,
+          "ldh": 192.1,
+          "crp": 1.5,
+          "neutrophils": 4762.0
+        },
+        "clinical": {
+          "weight": 82.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-09",
+        "blood": {
+          "glucose": 92.4,
+          "ldh": 169.2,
+          "crp": 0.4,
+          "neutrophils": 4346.0
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_036",
+    "sex": "M",
+    "age_2015": 55,
+    "history": [
+      {
+        "date": "2015-05-19",
+        "blood": {
+          "glucose": 85.5,
+          "ldh": 183.6,
+          "crp": 0.3,
+          "neutrophils": 3621.0
+        },
+        "clinical": {
+          "weight": 80.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-26",
+        "blood": {
+          "glucose": 90.1,
+          "ldh": 185.3,
+          "crp": 0.6,
+          "neutrophils": 5147.0
+        },
+        "clinical": {
+          "weight": 80.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-28",
+        "blood": {
+          "glucose": 86.5,
+          "ldh": 173.3,
+          "crp": 1.1,
+          "neutrophils": 3554.0
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-14",
+        "blood": {
+          "glucose": 91.1,
+          "ldh": 150.6,
+          "crp": 1.0,
+          "neutrophils": 4796.0
+        },
+        "clinical": {
+          "weight": 80.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-31",
+        "blood": {
+          "glucose": 85.3,
+          "ldh": 149.9,
+          "crp": 0.8,
+          "neutrophils": 5204.0
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-12",
+        "blood": {
+          "glucose": 85.9,
+          "ldh": 171.6,
+          "crp": 0.3,
+          "neutrophils": 5189.0
+        },
+        "clinical": {
+          "weight": 78.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_037",
+    "sex": "M",
+    "age_2015": 46,
+    "history": [
+      {
+        "date": "2015-05-31",
+        "blood": {
+          "glucose": 79.3,
+          "ldh": 177.4,
+          "crp": 0.6,
+          "neutrophils": 4708.0
+        },
+        "clinical": {
+          "weight": 66.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-10",
+        "blood": {
+          "glucose": 84.6,
+          "ldh": 161.2,
+          "crp": 0.3,
+          "neutrophils": 5098.0
+        },
+        "clinical": {
+          "weight": 65.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-13",
+        "blood": {
+          "glucose": 78.5,
+          "ldh": 153.6,
+          "crp": 1.4,
+          "neutrophils": 5010.0
+        },
+        "clinical": {
+          "weight": 65.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-24",
+        "blood": {
+          "glucose": 82.1,
+          "ldh": 155.2,
+          "crp": 1.6,
+          "neutrophils": 4729.0
+        },
+        "clinical": {
+          "weight": 66.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-19",
+        "blood": {
+          "glucose": 86.3,
+          "ldh": 163.6,
+          "crp": 0.7,
+          "neutrophils": 4382.0
+        },
+        "clinical": {
+          "weight": 66.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_038",
+    "sex": "F",
+    "age_2015": 73,
+    "history": [
+      {
+        "date": "2015-06-19",
+        "blood": {
+          "glucose": 85.0,
+          "ldh": 171.0,
+          "crp": 0.8,
+          "neutrophils": 4547.0
+        },
+        "clinical": {
+          "weight": 78.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-28",
+        "blood": {
+          "glucose": 87.6,
+          "ldh": 165.2,
+          "crp": 1.2,
+          "neutrophils": 2762.0
+        },
+        "clinical": {
+          "weight": 82.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-09",
+        "blood": {
+          "glucose": 84.4,
+          "ldh": 176.6,
+          "crp": 0.4,
+          "neutrophils": 4868.0
+        },
+        "clinical": {
+          "weight": 79.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-10",
+        "blood": {
+          "glucose": 82.9,
+          "ldh": 188.7,
+          "crp": 0.7,
+          "neutrophils": 4630.0
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-04",
+        "blood": {
+          "glucose": 86.3,
+          "ldh": 162.3,
+          "crp": 0.9,
+          "neutrophils": 5942.0
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-03",
+        "blood": {
+          "glucose": 85.4,
+          "ldh": 175.8,
+          "crp": 1.2,
+          "neutrophils": 5212.0
+        },
+        "clinical": {
+          "weight": 81.5
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_039",
+    "sex": "M",
+    "age_2015": 70,
+    "history": [
+      {
+        "date": "2015-06-05",
+        "blood": {
+          "glucose": 75.8,
+          "ldh": 164.5,
+          "crp": 0.5,
+          "neutrophils": 4462.0
+        },
+        "clinical": {
+          "weight": 88.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-02",
+        "blood": {
+          "glucose": 80.2,
+          "ldh": 166.3,
+          "crp": 1.4,
+          "neutrophils": 4772.0
+        },
+        "clinical": {
+          "weight": 87.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-28",
+        "blood": {
+          "glucose": 82.2,
+          "ldh": 177.8,
+          "crp": 0.3,
+          "neutrophils": 4858.0
+        },
+        "clinical": {
+          "weight": 88.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-11",
+        "blood": {
+          "glucose": 78.4,
+          "ldh": 180.6,
+          "crp": 0.7,
+          "neutrophils": 4575.0
+        },
+        "clinical": {
+          "weight": 87.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-07",
+        "blood": {
+          "glucose": 79.3,
+          "ldh": 143.6,
+          "crp": 0.2,
+          "neutrophils": 5457.0
+        },
+        "clinical": {
+          "weight": 87.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-09",
+        "blood": {
+          "glucose": 76.3,
+          "ldh": 127.7,
+          "crp": 0.5,
+          "neutrophils": 3706.0
+        },
+        "clinical": {
+          "weight": 89.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_040",
+    "sex": "M",
+    "age_2015": 57,
+    "history": [
+      {
+        "date": "2015-05-29",
+        "blood": {
+          "glucose": 96.8,
+          "ldh": 174.7,
+          "crp": 0.7,
+          "neutrophils": 3000.0
+        },
+        "clinical": {
+          "weight": 71.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-11",
+        "blood": {
+          "glucose": 85.9,
+          "ldh": 135.3,
+          "crp": 1.2,
+          "neutrophils": 5964.0
+        },
+        "clinical": {
+          "weight": 70.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-25",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 168.9,
+          "crp": 1.1,
+          "neutrophils": 4955.0
+        },
+        "clinical": {
+          "weight": 69.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-27",
+        "blood": {
+          "glucose": 90.4,
+          "ldh": 159.1,
+          "crp": 0.5,
+          "neutrophils": 4332.0
+        },
+        "clinical": {
+          "weight": 67.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-09",
+        "blood": {
+          "glucose": 89.8,
+          "ldh": 145.2,
+          "crp": 0.4,
+          "neutrophils": 4608.0
+        },
+        "clinical": {
+          "weight": 70.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-12",
+        "blood": {
+          "glucose": 92.8,
+          "ldh": 136.4,
+          "crp": 0.4,
+          "neutrophils": 5064.0
+        },
+        "clinical": {
+          "weight": 68.5
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_041",
+    "sex": "F",
+    "age_2015": 66,
+    "history": [
+      {
+        "date": "2015-05-22",
+        "blood": {
+          "glucose": 81.0,
+          "ldh": 161.6,
+          "crp": 0.3,
+          "neutrophils": 4139.0
+        },
+        "clinical": {
+          "weight": 79.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-29",
+        "blood": {
+          "glucose": 79.1,
+          "ldh": 166.6,
+          "crp": 0.8,
+          "neutrophils": 4831.0
+        },
+        "clinical": {
+          "weight": 79.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-11",
+        "blood": {
+          "glucose": 88.0,
+          "ldh": 161.9,
+          "crp": 0.6,
+          "neutrophils": 4573.0
+        },
+        "clinical": {
+          "weight": 79.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-17",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 160.6,
+          "crp": 0.5,
+          "neutrophils": 4102.0
+        },
+        "clinical": {
+          "weight": 78.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_042",
+    "sex": "F",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-05-04",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 149.2,
+          "crp": 1.2,
+          "neutrophils": 4323.0
+        },
+        "clinical": {
+          "weight": 66.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-27",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 164.2,
+          "crp": 0.5,
+          "neutrophils": 5787.0
+        },
+        "clinical": {
+          "weight": 63.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-14",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 169.5,
+          "crp": 1.0,
+          "neutrophils": 4389.0
+        },
+        "clinical": {
+          "weight": 64.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-17",
+        "blood": {
+          "glucose": 93.9,
+          "ldh": 157.8,
+          "crp": 1.2,
+          "neutrophils": 5826.0
+        },
+        "clinical": {
+          "weight": 64.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-11",
+        "blood": {
+          "glucose": 89.6,
+          "ldh": 158.7,
+          "crp": 1.8,
+          "neutrophils": 4018.0
+        },
+        "clinical": {
+          "weight": 66.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_043",
+    "sex": "F",
+    "age_2015": 71,
+    "history": [
+      {
+        "date": "2015-06-18",
+        "blood": {
+          "glucose": 95.1,
+          "ldh": 184.4,
+          "crp": 0.6,
+          "neutrophils": 4378.0
+        },
+        "clinical": {
+          "weight": 70.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-12",
+        "blood": {
+          "glucose": 90.3,
+          "ldh": 150.3,
+          "crp": 0.3,
+          "neutrophils": 4520.0
+        },
+        "clinical": {
+          "weight": 69.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-06",
+        "blood": {
+          "glucose": 94.1,
+          "ldh": 136.7,
+          "crp": 0.9,
+          "neutrophils": 5000.0
+        },
+        "clinical": {
+          "weight": 68.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-20",
+        "blood": {
+          "glucose": 94.5,
+          "ldh": 178.4,
+          "crp": 0.3,
+          "neutrophils": 5504.0
+        },
+        "clinical": {
+          "weight": 71.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-27",
+        "blood": {
+          "glucose": 91.3,
+          "ldh": 159.2,
+          "crp": 1.0,
+          "neutrophils": 4546.0
+        },
+        "clinical": {
+          "weight": 71.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-25",
+        "blood": {
+          "glucose": 90.6,
+          "ldh": 162.5,
+          "crp": 0.2,
+          "neutrophils": 4433.0
+        },
+        "clinical": {
+          "weight": 69.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_044",
+    "sex": "F",
+    "age_2015": 41,
+    "history": [
+      {
+        "date": "2015-05-02",
+        "blood": {
+          "glucose": 84.6,
+          "ldh": 169.1,
+          "crp": 0.4,
+          "neutrophils": 4310.0
+        },
+        "clinical": {
+          "weight": 86.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-11",
+        "blood": {
+          "glucose": 81.7,
+          "ldh": 194.8,
+          "crp": 1.0,
+          "neutrophils": 4615.0
+        },
+        "clinical": {
+          "weight": 84.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-04",
+        "blood": {
+          "glucose": 81.7,
+          "ldh": 157.7,
+          "crp": 1.1,
+          "neutrophils": 5074.0
+        },
+        "clinical": {
+          "weight": 84.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-24",
+        "blood": {
+          "glucose": 77.3,
+          "ldh": 132.5,
+          "crp": 1.0,
+          "neutrophils": 3838.0
+        },
+        "clinical": {
+          "weight": 82.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-30",
+        "blood": {
+          "glucose": 82.5,
+          "ldh": 197.4,
+          "crp": 0.8,
+          "neutrophils": 5003.0
+        },
+        "clinical": {
+          "weight": 85.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_045",
+    "sex": "F",
+    "age_2015": 66,
+    "history": [
+      {
+        "date": "2015-05-06",
+        "blood": {
+          "glucose": 83.6,
+          "ldh": 164.0,
+          "crp": 0.9,
+          "neutrophils": 4099.0
+        },
+        "clinical": {
+          "weight": 83.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-11",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 148.7,
+          "crp": 1.0,
+          "neutrophils": 3961.0
+        },
+        "clinical": {
+          "weight": 82.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-06-12",
+        "blood": {
+          "glucose": 84.5,
+          "ldh": 176.3,
+          "crp": 1.0,
+          "neutrophils": 4485.0
+        },
+        "clinical": {
+          "weight": 83.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-08",
+        "blood": {
+          "glucose": 88.7,
+          "ldh": 168.4,
+          "crp": 0.8,
+          "neutrophils": 3713.0
+        },
+        "clinical": {
+          "weight": 81.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-25",
+        "blood": {
+          "glucose": 83.6,
+          "ldh": 150.9,
+          "crp": 0.7,
+          "neutrophils": 4534.0
+        },
+        "clinical": {
+          "weight": 82.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_046",
+    "sex": "M",
+    "age_2015": 55,
+    "history": [
+      {
+        "date": "2015-05-17",
+        "blood": {
+          "glucose": 84.8,
+          "ldh": 130.4,
+          "crp": 0.4,
+          "neutrophils": 4414.0
+        },
+        "clinical": {
+          "weight": 77.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-12",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 183.0,
+          "crp": 1.3,
+          "neutrophils": 4372.0
+        },
+        "clinical": {
+          "weight": 80.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "HEALTHY_047",
+    "sex": "M",
+    "age_2015": 47,
+    "history": [
+      {
+        "date": "2015-05-13",
+        "blood": {
+          "glucose": 83.9,
+          "ldh": 155.5,
+          "crp": 0.6,
+          "neutrophils": 4602.0
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-19",
+        "blood": {
+          "glucose": 85.8,
+          "ldh": 166.6,
+          "crp": 1.3,
+          "neutrophils": 5070.0
+        },
+        "clinical": {
+          "weight": 70.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-24",
+        "blood": {
+          "glucose": 78.1,
+          "ldh": 174.0,
+          "crp": 0.3,
+          "neutrophils": 4365.0
+        },
+        "clinical": {
+          "weight": 71.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-06-30",
+        "blood": {
+          "glucose": 80.3,
+          "ldh": 168.1,
+          "crp": 1.1,
+          "neutrophils": 4154.0
+        },
+        "clinical": {
+          "weight": 69.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-10",
+        "blood": {
+          "glucose": 84.1,
+          "ldh": 165.9,
+          "crp": 0.2,
+          "neutrophils": 4610.0
+        },
+        "clinical": {
+          "weight": 72.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-26",
+        "blood": {
+          "glucose": 87.5,
+          "ldh": 161.8,
+          "crp": 0.4,
+          "neutrophils": 5218.0
+        },
+        "clinical": {
+          "weight": 72.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "HEALTHY"
+  },
+  {
+    "id": "PANCREAS_000",
+    "sex": "M",
+    "age_2015": 53,
+    "history": [
+      {
+        "date": "2015-06-19",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 165.6
+        },
+        "clinical": {
+          "weight": 75.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-05",
+        "blood": {
+          "glucose": 89.7,
+          "ldh": 187.1
+        },
+        "clinical": {
+          "weight": 74.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-05",
+        "blood": {
+          "glucose": 91.1,
+          "ldh": 184.7
+        },
+        "clinical": {
+          "weight": 73.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-08",
+        "blood": {
+          "glucose": 93.4,
+          "ldh": 180.4
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-30",
+        "blood": {
+          "glucose": 95.4,
+          "ldh": 176.8
+        },
+        "clinical": {
+          "weight": 70.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-13",
+        "blood": {
+          "glucose": 97.5,
+          "ldh": 163.9
+        },
+        "clinical": {
+          "weight": 68.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_001",
+    "sex": "F",
+    "age_2015": 50,
+    "history": [
+      {
+        "date": "2015-06-14",
+        "blood": {
+          "glucose": 91.0,
+          "ldh": 183.0
+        },
+        "clinical": {
+          "weight": 84.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-05",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 162.5
+        },
+        "clinical": {
+          "weight": 82.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-24",
+        "blood": {
+          "glucose": 97.6,
+          "ldh": 190.1
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-27",
+        "blood": {
+          "glucose": 100.2,
+          "ldh": 171.8
+        },
+        "clinical": {
+          "weight": 80.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-18",
+        "blood": {
+          "glucose": 101.6,
+          "ldh": 182.0
+        },
+        "clinical": {
+          "weight": 79.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-27",
+        "blood": {
+          "glucose": 103.6,
+          "ldh": 175.4
+        },
+        "clinical": {
+          "weight": 78.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_002",
+    "sex": "F",
+    "age_2015": 69,
+    "history": [
+      {
+        "date": "2015-06-24",
+        "blood": {
+          "glucose": 92.7,
+          "ldh": 180.0
+        },
+        "clinical": {
+          "weight": 87.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-22",
+        "blood": {
+          "glucose": 94.6,
+          "ldh": 185.0
+        },
+        "clinical": {
+          "weight": 86.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-13",
+        "blood": {
+          "glucose": 96.9,
+          "ldh": 183.3
+        },
+        "clinical": {
+          "weight": 85.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-03",
+        "blood": {
+          "glucose": 99.8,
+          "ldh": 191.7
+        },
+        "clinical": {
+          "weight": 83.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-09",
+        "blood": {
+          "glucose": 101.8,
+          "ldh": 170.6
+        },
+        "clinical": {
+          "weight": 81.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-25",
+        "blood": {
+          "glucose": 104.5,
+          "ldh": 175.1
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_003",
+    "sex": "F",
+    "age_2015": 57,
+    "history": [
+      {
+        "date": "2015-06-21",
+        "blood": {
+          "glucose": 90.2,
+          "ldh": 166.4
+        },
+        "clinical": {
+          "weight": 89.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-07",
+        "blood": {
+          "glucose": 92.0,
+          "ldh": 150.3
+        },
+        "clinical": {
+          "weight": 88.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-02",
+        "blood": {
+          "glucose": 96.1,
+          "ldh": 167.8
+        },
+        "clinical": {
+          "weight": 87.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-06",
+        "blood": {
+          "glucose": 98.4,
+          "ldh": 178.2
+        },
+        "clinical": {
+          "weight": 86.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-29",
+        "blood": {
+          "glucose": 101.6,
+          "ldh": 168.3
+        },
+        "clinical": {
+          "weight": 85.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_004",
+    "sex": "F",
+    "age_2015": 78,
+    "history": [
+      {
+        "date": "2015-06-18",
+        "blood": {
+          "glucose": 89.1,
+          "ldh": 186.1
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-24",
+        "blood": {
+          "glucose": 92.0,
+          "ldh": 176.6
+        },
+        "clinical": {
+          "weight": 78.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-04",
+        "blood": {
+          "glucose": 95.5,
+          "ldh": 157.0
+        },
+        "clinical": {
+          "weight": 77.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-04",
+        "blood": {
+          "glucose": 98.3,
+          "ldh": 164.7
+        },
+        "clinical": {
+          "weight": 76.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-22",
+        "blood": {
+          "glucose": 101.3,
+          "ldh": 170.2
+        },
+        "clinical": {
+          "weight": 74.5
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_005",
+    "sex": "F",
+    "age_2015": 70,
+    "history": [
+      {
+        "date": "2015-06-08",
+        "blood": {
+          "glucose": 89.2,
+          "ldh": 172.4
+        },
+        "clinical": {
+          "weight": 93.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-23",
+        "blood": {
+          "glucose": 93.8,
+          "ldh": 152.4
+        },
+        "clinical": {
+          "weight": 92.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-24",
+        "blood": {
+          "glucose": 96.9,
+          "ldh": 182.9
+        },
+        "clinical": {
+          "weight": 90.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-27",
+        "blood": {
+          "glucose": 100.0,
+          "ldh": 157.8
+        },
+        "clinical": {
+          "weight": 89.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-20",
+        "blood": {
+          "glucose": 102.3,
+          "ldh": 164.2
+        },
+        "clinical": {
+          "weight": 88.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-06",
+        "blood": {
+          "glucose": 105.3,
+          "ldh": 173.9
+        },
+        "clinical": {
+          "weight": 86.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_006",
+    "sex": "F",
+    "age_2015": 63,
+    "history": [
+      {
+        "date": "2015-06-15",
+        "blood": {
+          "glucose": 83.2,
+          "ldh": 182.0
+        },
+        "clinical": {
+          "weight": 85.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-18",
+        "blood": {
+          "glucose": 85.2,
+          "ldh": 170.1
+        },
+        "clinical": {
+          "weight": 83.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-29",
+        "blood": {
+          "glucose": 87.1,
+          "ldh": 168.8
+        },
+        "clinical": {
+          "weight": 82.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-10",
+        "blood": {
+          "glucose": 89.9,
+          "ldh": 165.6
+        },
+        "clinical": {
+          "weight": 81.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-07",
+        "blood": {
+          "glucose": 93.0,
+          "ldh": 187.3
+        },
+        "clinical": {
+          "weight": 80.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_007",
+    "sex": "M",
+    "age_2015": 56,
+    "history": [
+      {
+        "date": "2015-06-17",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 179.3
+        },
+        "clinical": {
+          "weight": 83.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-06",
+        "blood": {
+          "glucose": 87.8,
+          "ldh": 154.7
+        },
+        "clinical": {
+          "weight": 83.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-22",
+        "blood": {
+          "glucose": 91.3,
+          "ldh": 195.6
+        },
+        "clinical": {
+          "weight": 81.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-03",
+        "blood": {
+          "glucose": 93.3,
+          "ldh": 185.4
+        },
+        "clinical": {
+          "weight": 80.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-13",
+        "blood": {
+          "glucose": 97.4,
+          "ldh": 182.1
+        },
+        "clinical": {
+          "weight": 78.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-29",
+        "blood": {
+          "glucose": 100.7,
+          "ldh": 177.8
+        },
+        "clinical": {
+          "weight": 76.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_008",
+    "sex": "F",
+    "age_2015": 50,
+    "history": [
+      {
+        "date": "2015-05-14",
+        "blood": {
+          "glucose": 85.8,
+          "ldh": 170.0
+        },
+        "clinical": {
+          "weight": 76.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-28",
+        "blood": {
+          "glucose": 88.2,
+          "ldh": 177.0
+        },
+        "clinical": {
+          "weight": 75.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-14",
+        "blood": {
+          "glucose": 91.4,
+          "ldh": 184.8
+        },
+        "clinical": {
+          "weight": 73.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-30",
+        "blood": {
+          "glucose": 93.0,
+          "ldh": 162.8
+        },
+        "clinical": {
+          "weight": 72.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-19",
+        "blood": {
+          "glucose": 94.0,
+          "ldh": 168.8
+        },
+        "clinical": {
+          "weight": 71.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-02",
+        "blood": {
+          "glucose": 97.7,
+          "ldh": 159.8
+        },
+        "clinical": {
+          "weight": 69.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_009",
+    "sex": "M",
+    "age_2015": 68,
+    "history": [
+      {
+        "date": "2015-06-15",
+        "blood": {
+          "glucose": 95.4,
+          "ldh": 175.8
+        },
+        "clinical": {
+          "weight": 90.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-01",
+        "blood": {
+          "glucose": 97.7,
+          "ldh": 166.3
+        },
+        "clinical": {
+          "weight": 89.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-12",
+        "blood": {
+          "glucose": 101.1,
+          "ldh": 185.4
+        },
+        "clinical": {
+          "weight": 87.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-19",
+        "blood": {
+          "glucose": 103.2,
+          "ldh": 171.4
+        },
+        "clinical": {
+          "weight": 86.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-19",
+        "blood": {
+          "glucose": 104.3,
+          "ldh": 168.5
+        },
+        "clinical": {
+          "weight": 85.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_010",
+    "sex": "M",
+    "age_2015": 54,
+    "history": [
+      {
+        "date": "2015-05-19",
+        "blood": {
+          "glucose": 86.1,
+          "ldh": 175.1
+        },
+        "clinical": {
+          "weight": 70.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-14",
+        "blood": {
+          "glucose": 88.2,
+          "ldh": 141.3
+        },
+        "clinical": {
+          "weight": 70.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-14",
+        "blood": {
+          "glucose": 90.7,
+          "ldh": 186.6
+        },
+        "clinical": {
+          "weight": 68.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-07",
+        "blood": {
+          "glucose": 92.8,
+          "ldh": 174.7
+        },
+        "clinical": {
+          "weight": 66.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_011",
+    "sex": "F",
+    "age_2015": 64,
+    "history": [
+      {
+        "date": "2015-05-10",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 177.7
+        },
+        "clinical": {
+          "weight": 84.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-06",
+        "blood": {
+          "glucose": 87.5,
+          "ldh": 168.0
+        },
+        "clinical": {
+          "weight": 82.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-20",
+        "blood": {
+          "glucose": 89.3,
+          "ldh": 167.7
+        },
+        "clinical": {
+          "weight": 81.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-04",
+        "blood": {
+          "glucose": 92.1,
+          "ldh": 162.0
+        },
+        "clinical": {
+          "weight": 80.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-09",
+        "blood": {
+          "glucose": 95.8,
+          "ldh": 169.8
+        },
+        "clinical": {
+          "weight": 79.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-23",
+        "blood": {
+          "glucose": 97.7,
+          "ldh": 178.8
+        },
+        "clinical": {
+          "weight": 78.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_012",
+    "sex": "M",
+    "age_2015": 58,
+    "history": [
+      {
+        "date": "2015-06-28",
+        "blood": {
+          "glucose": 90.9,
+          "ldh": 170.7
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-20",
+        "blood": {
+          "glucose": 93.9,
+          "ldh": 164.7
+        },
+        "clinical": {
+          "weight": 79.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-15",
+        "blood": {
+          "glucose": 97.0,
+          "ldh": 172.9
+        },
+        "clinical": {
+          "weight": 78.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-09-21",
+        "blood": {
+          "glucose": 98.4,
+          "ldh": 169.6
+        },
+        "clinical": {
+          "weight": 77.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_013",
+    "sex": "F",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-10-25",
+        "blood": {
+          "glucose": 81.5,
+          "ldh": 162.7
+        },
+        "clinical": {
+          "weight": 90.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-26",
+        "blood": {
+          "glucose": 83.4,
+          "ldh": 181.5
+        },
+        "clinical": {
+          "weight": 88.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-21",
+        "blood": {
+          "glucose": 85.1,
+          "ldh": 174.3
+        },
+        "clinical": {
+          "weight": 87.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-26",
+        "blood": {
+          "glucose": 88.1,
+          "ldh": 166.3
+        },
+        "clinical": {
+          "weight": 86.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-27",
+        "blood": {
+          "glucose": 90.0,
+          "ldh": 159.3
+        },
+        "clinical": {
+          "weight": 84.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_014",
+    "sex": "M",
+    "age_2015": 70,
+    "history": [
+      {
+        "date": "2015-06-25",
+        "blood": {
+          "glucose": 76.3,
+          "ldh": 179.0
+        },
+        "clinical": {
+          "weight": 85.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-05",
+        "blood": {
+          "glucose": 76.9,
+          "ldh": 176.2
+        },
+        "clinical": {
+          "weight": 84.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-19",
+        "blood": {
+          "glucose": 81.1,
+          "ldh": 162.7
+        },
+        "clinical": {
+          "weight": 82.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-26",
+        "blood": {
+          "glucose": 83.4,
+          "ldh": 163.5
+        },
+        "clinical": {
+          "weight": 81.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-16",
+        "blood": {
+          "glucose": 85.3,
+          "ldh": 160.5
+        },
+        "clinical": {
+          "weight": 79.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-10",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 173.2
+        },
+        "clinical": {
+          "weight": 77.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_015",
+    "sex": "F",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-05-10",
+        "blood": {
+          "glucose": 87.0,
+          "ldh": 154.4
+        },
+        "clinical": {
+          "weight": 80.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-29",
+        "blood": {
+          "glucose": 90.2,
+          "ldh": 168.2
+        },
+        "clinical": {
+          "weight": 78.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-29",
+        "blood": {
+          "glucose": 95.3,
+          "ldh": 162.5
+        },
+        "clinical": {
+          "weight": 77.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-17",
+        "blood": {
+          "glucose": 97.4,
+          "ldh": 171.1
+        },
+        "clinical": {
+          "weight": 75.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-05",
+        "blood": {
+          "glucose": 98.8,
+          "ldh": 163.3
+        },
+        "clinical": {
+          "weight": 73.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-23",
+        "blood": {
+          "glucose": 102.8,
+          "ldh": 165.5
+        },
+        "clinical": {
+          "weight": 72.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_016",
+    "sex": "M",
+    "age_2015": 52,
+    "history": [
+      {
+        "date": "2015-05-20",
+        "blood": {
+          "glucose": 93.1,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 82.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-16",
+        "blood": {
+          "glucose": 96.0,
+          "ldh": 163.6
+        },
+        "clinical": {
+          "weight": 81.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-18",
+        "blood": {
+          "glucose": 99.3,
+          "ldh": 166.0
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-21",
+        "blood": {
+          "glucose": 101.1,
+          "ldh": 190.6
+        },
+        "clinical": {
+          "weight": 78.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-13",
+        "blood": {
+          "glucose": 102.7,
+          "ldh": 184.1
+        },
+        "clinical": {
+          "weight": 77.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-03",
+        "blood": {
+          "glucose": 105.2,
+          "ldh": 159.4
+        },
+        "clinical": {
+          "weight": 76.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_017",
+    "sex": "F",
+    "age_2015": 66,
+    "history": [
+      {
+        "date": "2015-05-15",
+        "blood": {
+          "glucose": 89.7,
+          "ldh": 179.9
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-04",
+        "blood": {
+          "glucose": 93.2,
+          "ldh": 175.8
+        },
+        "clinical": {
+          "weight": 78.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-09",
+        "blood": {
+          "glucose": 95.9,
+          "ldh": 166.5
+        },
+        "clinical": {
+          "weight": 77.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-24",
+        "blood": {
+          "glucose": 98.7,
+          "ldh": 171.7
+        },
+        "clinical": {
+          "weight": 75.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-08",
+        "blood": {
+          "glucose": 102.2,
+          "ldh": 181.4
+        },
+        "clinical": {
+          "weight": 74.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-26",
+        "blood": {
+          "glucose": 105.8,
+          "ldh": 148.8
+        },
+        "clinical": {
+          "weight": 73.6
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_018",
+    "sex": "M",
+    "age_2015": 77,
+    "history": [
+      {
+        "date": "2015-06-11",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 169.8
+        },
+        "clinical": {
+          "weight": 91.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-26",
+        "blood": {
+          "glucose": 87.3,
+          "ldh": 178.4
+        },
+        "clinical": {
+          "weight": 90.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-31",
+        "blood": {
+          "glucose": 90.2,
+          "ldh": 166.3
+        },
+        "clinical": {
+          "weight": 88.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-19",
+        "blood": {
+          "glucose": 92.4,
+          "ldh": 186.2
+        },
+        "clinical": {
+          "weight": 87.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-22",
+        "blood": {
+          "glucose": 94.6,
+          "ldh": 185.2
+        },
+        "clinical": {
+          "weight": 86.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-17",
+        "blood": {
+          "glucose": 97.9,
+          "ldh": 174.0
+        },
+        "clinical": {
+          "weight": 84.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_019",
+    "sex": "M",
+    "age_2015": 74,
+    "history": [
+      {
+        "date": "2015-05-11",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 173.2
+        },
+        "clinical": {
+          "weight": 75.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-22",
+        "blood": {
+          "glucose": 89.5,
+          "ldh": 165.4
+        },
+        "clinical": {
+          "weight": 73.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-01",
+        "blood": {
+          "glucose": 92.1,
+          "ldh": 167.4
+        },
+        "clinical": {
+          "weight": 72.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-20",
+        "blood": {
+          "glucose": 95.1,
+          "ldh": 178.7
+        },
+        "clinical": {
+          "weight": 71.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-20",
+        "blood": {
+          "glucose": 96.5,
+          "ldh": 189.4
+        },
+        "clinical": {
+          "weight": 70.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-09",
+        "blood": {
+          "glucose": 98.2,
+          "ldh": 175.1
+        },
+        "clinical": {
+          "weight": 69.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_020",
+    "sex": "F",
+    "age_2015": 74,
+    "history": [
+      {
+        "date": "2015-05-26",
+        "blood": {
+          "glucose": 88.7,
+          "ldh": 174.9
+        },
+        "clinical": {
+          "weight": 84.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-14",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 174.1
+        },
+        "clinical": {
+          "weight": 82.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-24",
+        "blood": {
+          "glucose": 94.0,
+          "ldh": 189.0
+        },
+        "clinical": {
+          "weight": 81.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-20",
+        "blood": {
+          "glucose": 96.4,
+          "ldh": 181.1
+        },
+        "clinical": {
+          "weight": 80.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-30",
+        "blood": {
+          "glucose": 98.8,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 79.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-08",
+        "blood": {
+          "glucose": 100.9,
+          "ldh": 173.3
+        },
+        "clinical": {
+          "weight": 78.5
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_021",
+    "sex": "M",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-05-04",
+        "blood": {
+          "glucose": 88.8,
+          "ldh": 165.6
+        },
+        "clinical": {
+          "weight": 87.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-06",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 177.4
+        },
+        "clinical": {
+          "weight": 85.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-21",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 180.9
+        },
+        "clinical": {
+          "weight": 84.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-03",
+        "blood": {
+          "glucose": 96.7,
+          "ldh": 173.7
+        },
+        "clinical": {
+          "weight": 83.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-02",
+        "blood": {
+          "glucose": 100.7,
+          "ldh": 166.5
+        },
+        "clinical": {
+          "weight": 82.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-09",
+        "blood": {
+          "glucose": 103.2,
+          "ldh": 178.0
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_022",
+    "sex": "F",
+    "age_2015": 66,
+    "history": [
+      {
+        "date": "2016-04-19",
+        "blood": {
+          "glucose": 81.5,
+          "ldh": 159.3
+        },
+        "clinical": {
+          "weight": 74.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-15",
+        "blood": {
+          "glucose": 84.8,
+          "ldh": 169.0
+        },
+        "clinical": {
+          "weight": 72.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-23",
+        "blood": {
+          "glucose": 87.2,
+          "ldh": 181.6
+        },
+        "clinical": {
+          "weight": 71.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-24",
+        "blood": {
+          "glucose": 88.9,
+          "ldh": 179.8
+        },
+        "clinical": {
+          "weight": 69.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PANCREAS_023",
+    "sex": "M",
+    "age_2015": 77,
+    "history": [
+      {
+        "date": "2015-06-15",
+        "blood": {
+          "glucose": 90.0,
+          "ldh": 180.0
+        },
+        "clinical": {
+          "weight": 83.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-05",
+        "blood": {
+          "glucose": 90.3,
+          "ldh": 163.5
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-03",
+        "blood": {
+          "glucose": 91.4,
+          "ldh": 183.7
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-05",
+        "blood": {
+          "glucose": 93.8,
+          "ldh": 186.1
+        },
+        "clinical": {
+          "weight": 78.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-14",
+        "blood": {
+          "glucose": 97.3,
+          "ldh": 177.4
+        },
+        "clinical": {
+          "weight": 76.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-16",
+        "blood": {
+          "glucose": 99.9,
+          "ldh": 167.5
+        },
+        "clinical": {
+          "weight": 76.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2018-06-01",
+    "truth": "PANCREATIC_CANCER"
+  },
+  {
+    "id": "PREDIAB_000",
+    "sex": "F",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-05-05",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 166.5
+        },
+        "clinical": {
+          "weight": 93.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-22",
+        "blood": {
+          "glucose": 92.5,
+          "ldh": 185.3
+        },
+        "clinical": {
+          "weight": 92.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-11",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 156.1
+        },
+        "clinical": {
+          "weight": 91.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-10",
+        "blood": {
+          "glucose": 96.1,
+          "ldh": 164.6
+        },
+        "clinical": {
+          "weight": 92.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-08",
+        "blood": {
+          "glucose": 97.4,
+          "ldh": 148.1
+        },
+        "clinical": {
+          "weight": 92.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-26",
+        "blood": {
+          "glucose": 97.9,
+          "ldh": 174.1
+        },
+        "clinical": {
+          "weight": 93.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_001",
+    "sex": "F",
+    "age_2015": 52,
+    "history": [
+      {
+        "date": "2015-05-10",
+        "blood": {
+          "glucose": 87.4,
+          "ldh": 168.8
+        },
+        "clinical": {
+          "weight": 79.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-07",
+        "blood": {
+          "glucose": 87.5,
+          "ldh": 166.4
+        },
+        "clinical": {
+          "weight": 78.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-10",
+        "blood": {
+          "glucose": 90.2,
+          "ldh": 167.6
+        },
+        "clinical": {
+          "weight": 77.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-01",
+        "blood": {
+          "glucose": 91.9,
+          "ldh": 155.4
+        },
+        "clinical": {
+          "weight": 79.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-19",
+        "blood": {
+          "glucose": 93.9,
+          "ldh": 187.8
+        },
+        "clinical": {
+          "weight": 78.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-01",
+        "blood": {
+          "glucose": 95.2,
+          "ldh": 146.8
+        },
+        "clinical": {
+          "weight": 76.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_002",
+    "sex": "F",
+    "age_2015": 75,
+    "history": [
+      {
+        "date": "2015-06-24",
+        "blood": {
+          "glucose": 88.2,
+          "ldh": 146.0
+        },
+        "clinical": {
+          "weight": 82.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-24",
+        "blood": {
+          "glucose": 89.7,
+          "ldh": 166.8
+        },
+        "clinical": {
+          "weight": 83.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-22",
+        "blood": {
+          "glucose": 92.6,
+          "ldh": 161.8
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-09",
+        "blood": {
+          "glucose": 92.4,
+          "ldh": 156.4
+        },
+        "clinical": {
+          "weight": 81.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-18",
+        "blood": {
+          "glucose": 93.4,
+          "ldh": 163.4
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-29",
+        "blood": {
+          "glucose": 95.2,
+          "ldh": 157.2
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_003",
+    "sex": "M",
+    "age_2015": 47,
+    "history": [
+      {
+        "date": "2015-05-03",
+        "blood": {
+          "glucose": 97.2,
+          "ldh": 163.8
+        },
+        "clinical": {
+          "weight": 73.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-07",
+        "blood": {
+          "glucose": 99.9,
+          "ldh": 167.8
+        },
+        "clinical": {
+          "weight": 74.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-10",
+        "blood": {
+          "glucose": 102.2,
+          "ldh": 157.7
+        },
+        "clinical": {
+          "weight": 73.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-01",
+        "blood": {
+          "glucose": 103.0,
+          "ldh": 166.3
+        },
+        "clinical": {
+          "weight": 73.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-16",
+        "blood": {
+          "glucose": 104.8,
+          "ldh": 163.5
+        },
+        "clinical": {
+          "weight": 71.6
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_004",
+    "sex": "F",
+    "age_2015": 65,
+    "history": [
+      {
+        "date": "2015-05-31",
+        "blood": {
+          "glucose": 92.0,
+          "ldh": 152.7
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-14",
+        "blood": {
+          "glucose": 93.1,
+          "ldh": 176.6
+        },
+        "clinical": {
+          "weight": 81.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-26",
+        "blood": {
+          "glucose": 94.5,
+          "ldh": 186.3
+        },
+        "clinical": {
+          "weight": 79.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-29",
+        "blood": {
+          "glucose": 97.4,
+          "ldh": 177.0
+        },
+        "clinical": {
+          "weight": 79.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-19",
+        "blood": {
+          "glucose": 100.8,
+          "ldh": 162.0
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-22",
+        "blood": {
+          "glucose": 103.0,
+          "ldh": 163.4
+        },
+        "clinical": {
+          "weight": 81.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_005",
+    "sex": "F",
+    "age_2015": 48,
+    "history": [
+      {
+        "date": "2015-06-15",
+        "blood": {
+          "glucose": 98.5,
+          "ldh": 145.1
+        },
+        "clinical": {
+          "weight": 70.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-13",
+        "blood": {
+          "glucose": 101.6,
+          "ldh": 151.9
+        },
+        "clinical": {
+          "weight": 69.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-14",
+        "blood": {
+          "glucose": 102.5,
+          "ldh": 162.4
+        },
+        "clinical": {
+          "weight": 69.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-27",
+        "blood": {
+          "glucose": 105.3,
+          "ldh": 180.7
+        },
+        "clinical": {
+          "weight": 70.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-21",
+        "blood": {
+          "glucose": 106.7,
+          "ldh": 162.5
+        },
+        "clinical": {
+          "weight": 67.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-04",
+        "blood": {
+          "glucose": 107.9,
+          "ldh": 176.6
+        },
+        "clinical": {
+          "weight": 71.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_006",
+    "sex": "F",
+    "age_2015": 49,
+    "history": [
+      {
+        "date": "2015-06-18",
+        "blood": {
+          "glucose": 89.0,
+          "ldh": 168.4
+        },
+        "clinical": {
+          "weight": 75.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-10",
+        "blood": {
+          "glucose": 91.5,
+          "ldh": 159.3
+        },
+        "clinical": {
+          "weight": 76.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-18",
+        "blood": {
+          "glucose": 94.0,
+          "ldh": 165.1
+        },
+        "clinical": {
+          "weight": 76.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-01",
+        "blood": {
+          "glucose": 95.9,
+          "ldh": 163.9
+        },
+        "clinical": {
+          "weight": 76.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-17",
+        "blood": {
+          "glucose": 97.6,
+          "ldh": 184.2
+        },
+        "clinical": {
+          "weight": 77.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_007",
+    "sex": "M",
+    "age_2015": 52,
+    "history": [
+      {
+        "date": "2015-05-16",
+        "blood": {
+          "glucose": 92.5,
+          "ldh": 179.1
+        },
+        "clinical": {
+          "weight": 84.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-19",
+        "blood": {
+          "glucose": 94.4,
+          "ldh": 170.4
+        },
+        "clinical": {
+          "weight": 82.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-27",
+        "blood": {
+          "glucose": 95.3,
+          "ldh": 150.7
+        },
+        "clinical": {
+          "weight": 84.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-01",
+        "blood": {
+          "glucose": 99.0,
+          "ldh": 191.8
+        },
+        "clinical": {
+          "weight": 84.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-22",
+        "blood": {
+          "glucose": 101.5,
+          "ldh": 143.4
+        },
+        "clinical": {
+          "weight": 83.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-06",
+        "blood": {
+          "glucose": 102.7,
+          "ldh": 157.5
+        },
+        "clinical": {
+          "weight": 84.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_008",
+    "sex": "F",
+    "age_2015": 63,
+    "history": [
+      {
+        "date": "2015-05-30",
+        "blood": {
+          "glucose": 92.9,
+          "ldh": 152.1
+        },
+        "clinical": {
+          "weight": 68.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-26",
+        "blood": {
+          "glucose": 96.9,
+          "ldh": 154.0
+        },
+        "clinical": {
+          "weight": 65.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-23",
+        "blood": {
+          "glucose": 98.6,
+          "ldh": 178.2
+        },
+        "clinical": {
+          "weight": 70.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-21",
+        "blood": {
+          "glucose": 99.4,
+          "ldh": 171.0
+        },
+        "clinical": {
+          "weight": 67.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-31",
+        "blood": {
+          "glucose": 101.3,
+          "ldh": 196.7
+        },
+        "clinical": {
+          "weight": 66.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-04",
+        "blood": {
+          "glucose": 103.6,
+          "ldh": 170.6
+        },
+        "clinical": {
+          "weight": 69.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_009",
+    "sex": "F",
+    "age_2015": 63,
+    "history": [
+      {
+        "date": "2015-05-20",
+        "blood": {
+          "glucose": 94.0,
+          "ldh": 168.2
+        },
+        "clinical": {
+          "weight": 81.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-14",
+        "blood": {
+          "glucose": 96.6,
+          "ldh": 160.6
+        },
+        "clinical": {
+          "weight": 82.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-11",
+        "blood": {
+          "glucose": 98.6,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-21",
+        "blood": {
+          "glucose": 98.8,
+          "ldh": 180.1
+        },
+        "clinical": {
+          "weight": 80.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-11",
+        "blood": {
+          "glucose": 100.2,
+          "ldh": 157.9
+        },
+        "clinical": {
+          "weight": 83.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-26",
+        "blood": {
+          "glucose": 100.0,
+          "ldh": 202.7
+        },
+        "clinical": {
+          "weight": 82.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_010",
+    "sex": "F",
+    "age_2015": 71,
+    "history": [
+      {
+        "date": "2015-05-19",
+        "blood": {
+          "glucose": 95.2,
+          "ldh": 171.3
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-25",
+        "blood": {
+          "glucose": 97.7,
+          "ldh": 166.1
+        },
+        "clinical": {
+          "weight": 79.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-31",
+        "blood": {
+          "glucose": 99.6,
+          "ldh": 162.7
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-17",
+        "blood": {
+          "glucose": 102.2,
+          "ldh": 129.7
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_011",
+    "sex": "M",
+    "age_2015": 65,
+    "history": [
+      {
+        "date": "2015-06-27",
+        "blood": {
+          "glucose": 94.4,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-13",
+        "blood": {
+          "glucose": 95.6,
+          "ldh": 169.9
+        },
+        "clinical": {
+          "weight": 78.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-19",
+        "blood": {
+          "glucose": 96.2,
+          "ldh": 157.5
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-30",
+        "blood": {
+          "glucose": 99.2,
+          "ldh": 171.2
+        },
+        "clinical": {
+          "weight": 80.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-08",
+        "blood": {
+          "glucose": 101.7,
+          "ldh": 157.3
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-23",
+        "blood": {
+          "glucose": 104.5,
+          "ldh": 174.1
+        },
+        "clinical": {
+          "weight": 81.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_012",
+    "sex": "F",
+    "age_2015": 50,
+    "history": [
+      {
+        "date": "2015-05-07",
+        "blood": {
+          "glucose": 97.9,
+          "ldh": 164.7
+        },
+        "clinical": {
+          "weight": 81.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-02",
+        "blood": {
+          "glucose": 99.7,
+          "ldh": 156.1
+        },
+        "clinical": {
+          "weight": 81.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-06",
+        "blood": {
+          "glucose": 101.6,
+          "ldh": 155.5
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-30",
+        "blood": {
+          "glucose": 101.7,
+          "ldh": 167.6
+        },
+        "clinical": {
+          "weight": 82.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_013",
+    "sex": "F",
+    "age_2015": 68,
+    "history": [
+      {
+        "date": "2015-05-13",
+        "blood": {
+          "glucose": 91.7,
+          "ldh": 145.7
+        },
+        "clinical": {
+          "weight": 83.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-14",
+        "blood": {
+          "glucose": 92.9,
+          "ldh": 153.7
+        },
+        "clinical": {
+          "weight": 84.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-05",
+        "blood": {
+          "glucose": 94.7,
+          "ldh": 161.8
+        },
+        "clinical": {
+          "weight": 82.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-30",
+        "blood": {
+          "glucose": 97.3,
+          "ldh": 150.1
+        },
+        "clinical": {
+          "weight": 84.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-07",
+        "blood": {
+          "glucose": 99.6,
+          "ldh": 181.3
+        },
+        "clinical": {
+          "weight": 82.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-28",
+        "blood": {
+          "glucose": 98.6,
+          "ldh": 167.2
+        },
+        "clinical": {
+          "weight": 85.8
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_014",
+    "sex": "F",
+    "age_2015": 47,
+    "history": [
+      {
+        "date": "2015-06-25",
+        "blood": {
+          "glucose": 98.5,
+          "ldh": 174.7
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-30",
+        "blood": {
+          "glucose": 100.9,
+          "ldh": 171.1
+        },
+        "clinical": {
+          "weight": 82.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-02",
+        "blood": {
+          "glucose": 105.7,
+          "ldh": 169.7
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-14",
+        "blood": {
+          "glucose": 107.7,
+          "ldh": 143.8
+        },
+        "clinical": {
+          "weight": 80.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-27",
+        "blood": {
+          "glucose": 109.3,
+          "ldh": 158.7
+        },
+        "clinical": {
+          "weight": 81.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-21",
+        "blood": {
+          "glucose": 110.4,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 81.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_015",
+    "sex": "M",
+    "age_2015": 66,
+    "history": [
+      {
+        "date": "2015-06-20",
+        "blood": {
+          "glucose": 94.1,
+          "ldh": 174.9
+        },
+        "clinical": {
+          "weight": 77.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-03",
+        "blood": {
+          "glucose": 95.5,
+          "ldh": 161.4
+        },
+        "clinical": {
+          "weight": 76.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-31",
+        "blood": {
+          "glucose": 96.6,
+          "ldh": 159.3
+        },
+        "clinical": {
+          "weight": 78.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-14",
+        "blood": {
+          "glucose": 98.9,
+          "ldh": 167.3
+        },
+        "clinical": {
+          "weight": 78.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-18",
+        "blood": {
+          "glucose": 100.8,
+          "ldh": 169.7
+        },
+        "clinical": {
+          "weight": 77.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-28",
+        "blood": {
+          "glucose": 103.0,
+          "ldh": 158.0
+        },
+        "clinical": {
+          "weight": 75.6
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_016",
+    "sex": "F",
+    "age_2015": 65,
+    "history": [
+      {
+        "date": "2015-05-15",
+        "blood": {
+          "glucose": 94.4,
+          "ldh": 176.6
+        },
+        "clinical": {
+          "weight": 89.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-21",
+        "blood": {
+          "glucose": 96.5,
+          "ldh": 167.4
+        },
+        "clinical": {
+          "weight": 87.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-24",
+        "blood": {
+          "glucose": 98.2,
+          "ldh": 172.4
+        },
+        "clinical": {
+          "weight": 89.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-30",
+        "blood": {
+          "glucose": 100.0,
+          "ldh": 159.6
+        },
+        "clinical": {
+          "weight": 88.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-01",
+        "blood": {
+          "glucose": 102.6,
+          "ldh": 147.7
+        },
+        "clinical": {
+          "weight": 86.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-30",
+        "blood": {
+          "glucose": 104.1,
+          "ldh": 150.4
+        },
+        "clinical": {
+          "weight": 88.0
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "PREDIAB_017",
+    "sex": "F",
+    "age_2015": 63,
+    "history": [
+      {
+        "date": "2015-05-27",
+        "blood": {
+          "glucose": 94.9,
+          "ldh": 168.9
+        },
+        "clinical": {
+          "weight": 77.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-26",
+        "blood": {
+          "glucose": 97.5,
+          "ldh": 151.3
+        },
+        "clinical": {
+          "weight": 78.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-12",
+        "blood": {
+          "glucose": 99.4,
+          "ldh": 173.0
+        },
+        "clinical": {
+          "weight": 76.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-12-11",
+        "blood": {
+          "glucose": 99.9,
+          "ldh": 174.8
+        },
+        "clinical": {
+          "weight": 77.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-04",
+        "blood": {
+          "glucose": 101.0,
+          "ldh": 154.6
+        },
+        "clinical": {
+          "weight": 78.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_PREDIABETES"
+  },
+  {
+    "id": "DIET_000",
+    "sex": "F",
+    "age_2015": 58,
+    "history": [
+      {
+        "date": "2015-06-17",
+        "blood": {
+          "glucose": 85.7,
+          "ldh": 155.1
+        },
+        "clinical": {
+          "weight": 94.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-10",
+        "blood": {
+          "glucose": 83.3,
+          "ldh": 157.6
+        },
+        "clinical": {
+          "weight": 92.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-14",
+        "blood": {
+          "glucose": 82.4,
+          "ldh": 171.1
+        },
+        "clinical": {
+          "weight": 91.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-20",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 145.1
+        },
+        "clinical": {
+          "weight": 90.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-19",
+        "blood": {
+          "glucose": 84.0,
+          "ldh": 196.2
+        },
+        "clinical": {
+          "weight": 90.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-30",
+        "blood": {
+          "glucose": 84.4,
+          "ldh": 156.1
+        },
+        "clinical": {
+          "weight": 89.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_001",
+    "sex": "M",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-06-30",
+        "blood": {
+          "glucose": 90.3,
+          "ldh": 170.7
+        },
+        "clinical": {
+          "weight": 87.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-01",
+        "blood": {
+          "glucose": 88.9,
+          "ldh": 160.3
+        },
+        "clinical": {
+          "weight": 86.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-25",
+        "blood": {
+          "glucose": 89.3,
+          "ldh": 154.7
+        },
+        "clinical": {
+          "weight": 84.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-07-31",
+        "blood": {
+          "glucose": 88.3,
+          "ldh": 183.2
+        },
+        "clinical": {
+          "weight": 83.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_002",
+    "sex": "M",
+    "age_2015": 43,
+    "history": [
+      {
+        "date": "2015-05-06",
+        "blood": {
+          "glucose": 84.4,
+          "ldh": 162.6
+        },
+        "clinical": {
+          "weight": 74.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-14",
+        "blood": {
+          "glucose": 83.8,
+          "ldh": 182.3
+        },
+        "clinical": {
+          "weight": 73.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-02",
+        "blood": {
+          "glucose": 82.6,
+          "ldh": 158.5
+        },
+        "clinical": {
+          "weight": 73.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-07",
+        "blood": {
+          "glucose": 83.9,
+          "ldh": 184.9
+        },
+        "clinical": {
+          "weight": 73.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_003",
+    "sex": "M",
+    "age_2015": 37,
+    "history": [
+      {
+        "date": "2015-06-22",
+        "blood": {
+          "glucose": 86.8,
+          "ldh": 154.4
+        },
+        "clinical": {
+          "weight": 85.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-10",
+        "blood": {
+          "glucose": 90.6,
+          "ldh": 168.4
+        },
+        "clinical": {
+          "weight": 84.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-28",
+        "blood": {
+          "glucose": 88.6,
+          "ldh": 167.5
+        },
+        "clinical": {
+          "weight": 84.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-26",
+        "blood": {
+          "glucose": 91.2,
+          "ldh": 144.8
+        },
+        "clinical": {
+          "weight": 82.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-02",
+        "blood": {
+          "glucose": 85.5,
+          "ldh": 156.5
+        },
+        "clinical": {
+          "weight": 81.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-05",
+        "blood": {
+          "glucose": 90.0,
+          "ldh": 158.9
+        },
+        "clinical": {
+          "weight": 80.3
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_004",
+    "sex": "M",
+    "age_2015": 34,
+    "history": [
+      {
+        "date": "2015-06-12",
+        "blood": {
+          "glucose": 91.2,
+          "ldh": 135.9
+        },
+        "clinical": {
+          "weight": 85.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-05",
+        "blood": {
+          "glucose": 91.1,
+          "ldh": 160.1
+        },
+        "clinical": {
+          "weight": 83.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-09",
+        "blood": {
+          "glucose": 86.3,
+          "ldh": 157.3
+        },
+        "clinical": {
+          "weight": 82.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-18",
+        "blood": {
+          "glucose": 82.6,
+          "ldh": 183.0
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-26",
+        "blood": {
+          "glucose": 86.5,
+          "ldh": 153.6
+        },
+        "clinical": {
+          "weight": 80.4
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_005",
+    "sex": "F",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-05-31",
+        "blood": {
+          "glucose": 93.8,
+          "ldh": 139.6
+        },
+        "clinical": {
+          "weight": 73.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-21",
+        "blood": {
+          "glucose": 88.4,
+          "ldh": 166.4
+        },
+        "clinical": {
+          "weight": 72.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-24",
+        "blood": {
+          "glucose": 88.5,
+          "ldh": 167.3
+        },
+        "clinical": {
+          "weight": 71.4
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-07",
+        "blood": {
+          "glucose": 89.4,
+          "ldh": 170.8
+        },
+        "clinical": {
+          "weight": 69.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-06",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 167.1
+        },
+        "clinical": {
+          "weight": 68.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-05-03",
+        "blood": {
+          "glucose": 90.5,
+          "ldh": 155.3
+        },
+        "clinical": {
+          "weight": 66.6
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_006",
+    "sex": "F",
+    "age_2015": 39,
+    "history": [
+      {
+        "date": "2015-06-11",
+        "blood": {
+          "glucose": 89.8,
+          "ldh": 153.2
+        },
+        "clinical": {
+          "weight": 75.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-12",
+        "blood": {
+          "glucose": 88.5,
+          "ldh": 153.4
+        },
+        "clinical": {
+          "weight": 75.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-03",
+        "blood": {
+          "glucose": 92.2,
+          "ldh": 156.3
+        },
+        "clinical": {
+          "weight": 73.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-13",
+        "blood": {
+          "glucose": 86.7,
+          "ldh": 171.2
+        },
+        "clinical": {
+          "weight": 72.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-25",
+        "blood": {
+          "glucose": 86.7,
+          "ldh": 179.8
+        },
+        "clinical": {
+          "weight": 71.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-29",
+        "blood": {
+          "glucose": 86.8,
+          "ldh": 132.0
+        },
+        "clinical": {
+          "weight": 69.7
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_007",
+    "sex": "M",
+    "age_2015": 37,
+    "history": [
+      {
+        "date": "2015-05-05",
+        "blood": {
+          "glucose": 87.1,
+          "ldh": 173.4
+        },
+        "clinical": {
+          "weight": 79.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-11",
+        "blood": {
+          "glucose": 92.5,
+          "ldh": 160.2
+        },
+        "clinical": {
+          "weight": 78.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-14",
+        "blood": {
+          "glucose": 90.2,
+          "ldh": 170.3
+        },
+        "clinical": {
+          "weight": 78.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-05",
+        "blood": {
+          "glucose": 92.2,
+          "ldh": 189.6
+        },
+        "clinical": {
+          "weight": 76.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-05",
+        "blood": {
+          "glucose": 94.3,
+          "ldh": 161.6
+        },
+        "clinical": {
+          "weight": 76.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-06",
+        "blood": {
+          "glucose": 88.4,
+          "ldh": 157.2
+        },
+        "clinical": {
+          "weight": 75.9
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_008",
+    "sex": "F",
+    "age_2015": 36,
+    "history": [
+      {
+        "date": "2015-06-24",
+        "blood": {
+          "glucose": 87.9,
+          "ldh": 159.8
+        },
+        "clinical": {
+          "weight": 82.1
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-12-17",
+        "blood": {
+          "glucose": 91.5,
+          "ldh": 173.3
+        },
+        "clinical": {
+          "weight": 81.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-31",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 163.0
+        },
+        "clinical": {
+          "weight": 80.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-10-25",
+        "blood": {
+          "glucose": 91.6,
+          "ldh": 178.5
+        },
+        "clinical": {
+          "weight": 79.3
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-08",
+        "blood": {
+          "glucose": 92.1,
+          "ldh": 177.9
+        },
+        "clinical": {
+          "weight": 78.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-27",
+        "blood": {
+          "glucose": 91.4,
+          "ldh": 152.4
+        },
+        "clinical": {
+          "weight": 78.6
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_009",
+    "sex": "F",
+    "age_2015": 38,
+    "history": [
+      {
+        "date": "2015-05-21",
+        "blood": {
+          "glucose": 86.4,
+          "ldh": 160.5
+        },
+        "clinical": {
+          "weight": 86.2
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-30",
+        "blood": {
+          "glucose": 85.6,
+          "ldh": 170.2
+        },
+        "clinical": {
+          "weight": 85.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-07",
+        "blood": {
+          "glucose": 89.1,
+          "ldh": 166.9
+        },
+        "clinical": {
+          "weight": 85.1
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_010",
+    "sex": "M",
+    "age_2015": 48,
+    "history": [
+      {
+        "date": "2015-11-07",
+        "blood": {
+          "glucose": 80.9,
+          "ldh": 153.0
+        },
+        "clinical": {
+          "weight": 79.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-17",
+        "blood": {
+          "glucose": 84.4,
+          "ldh": 156.2
+        },
+        "clinical": {
+          "weight": 77.5
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-09-06",
+        "blood": {
+          "glucose": 85.7,
+          "ldh": 186.1
+        },
+        "clinical": {
+          "weight": 76.7
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-03-05",
+        "blood": {
+          "glucose": 83.0,
+          "ldh": 147.9
+        },
+        "clinical": {
+          "weight": 74.9
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-08-27",
+        "blood": {
+          "glucose": 83.9,
+          "ldh": 166.3
+        },
+        "clinical": {
+          "weight": 74.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "DIET_011",
+    "sex": "F",
+    "age_2015": 44,
+    "history": [
+      {
+        "date": "2015-06-08",
+        "blood": {
+          "glucose": 94.3,
+          "ldh": 145.0
+        },
+        "clinical": {
+          "weight": 88.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-12",
+        "blood": {
+          "glucose": 92.7,
+          "ldh": 189.9
+        },
+        "clinical": {
+          "weight": 87.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-22",
+        "blood": {
+          "glucose": 93.4,
+          "ldh": 157.3
+        },
+        "clinical": {
+          "weight": 84.6
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-21",
+        "blood": {
+          "glucose": 94.0,
+          "ldh": 155.2
+        },
+        "clinical": {
+          "weight": 83.0
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-11-24",
+        "blood": {
+          "glucose": 92.7,
+          "ldh": 167.5
+        },
+        "clinical": {
+          "weight": 80.8
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-04-28",
+        "blood": {
+          "glucose": 93.0,
+          "ldh": 172.6
+        },
+        "clinical": {
+          "weight": 79.2
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": null,
+    "truth": "NO_CANCER_WEIGHT_LOSS"
+  },
+  {
+    "id": "GHOST_000",
+    "sex": "M",
+    "age_2015": 73,
+    "history": [
+      {
+        "date": "2015-06-21",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-05-13",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-10-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-02-21",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-08-02",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_001",
+    "sex": "M",
+    "age_2015": 76,
+    "history": [
+      {
+        "date": "2015-06-12",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-19",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-07-19",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-12-12",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-04-21",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_002",
+    "sex": "M",
+    "age_2015": 55,
+    "history": [
+      {
+        "date": "2015-05-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-15",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-21",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-05",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-01-04",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-05-31",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_003",
+    "sex": "M",
+    "age_2015": 68,
+    "history": [
+      {
+        "date": "2015-05-14",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-24",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-10",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-07-28",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2016-12-26",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-05-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_004",
+    "sex": "F",
+    "age_2015": 58,
+    "history": [
+      {
+        "date": "2015-05-02",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-03",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-06-30",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2016-11-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_005",
+    "sex": "M",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-05-16",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-08",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-01",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-15",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-01-03",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-05-07",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_006",
+    "sex": "F",
+    "age_2015": 59,
+    "history": [
+      {
+        "date": "2015-05-17",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-07",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-16",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-01-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-07-10",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_007",
+    "sex": "M",
+    "age_2015": 74,
+    "history": [
+      {
+        "date": "2015-10-24",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-11",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-12",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-12-14",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_008",
+    "sex": "M",
+    "age_2015": 71,
+    "history": [
+      {
+        "date": "2015-06-08",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-04",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-02-09",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-21",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_009",
+    "sex": "M",
+    "age_2015": 72,
+    "history": [
+      {
+        "date": "2015-06-11",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-24",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-20",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-26",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-01-16",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-06-09",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_010",
+    "sex": "M",
+    "age_2015": 64,
+    "history": [
+      {
+        "date": "2015-06-13",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-27",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-09-11",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-07-11",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_011",
+    "sex": "M",
+    "age_2015": 62,
+    "history": [
+      {
+        "date": "2015-06-05",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-29",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-09-18",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-02-28",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      },
+      {
+        "date": "2017-07-03",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_012",
+    "sex": "M",
+    "age_2015": 78,
+    "history": [
+      {
+        "date": "2015-05-09",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-24",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-01-28",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-06-30",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2016-12-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-03",
+        "blood": {
+          "glucose": 90,
+          "ldh": 270
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 2.5
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_013",
+    "sex": "F",
+    "age_2015": 69,
+    "history": [
+      {
+        "date": "2015-10-19",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-02",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-08-08",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2017-01-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-06-05",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_014",
+    "sex": "M",
+    "age_2015": 64,
+    "history": [
+      {
+        "date": "2015-06-19",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-11-10",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-04",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-09-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-02-28",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_015",
+    "sex": "F",
+    "age_2015": 57,
+    "history": [
+      {
+        "date": "2015-05-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-20",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-02-19",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2017-01-09",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2017-06-06",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_016",
+    "sex": "M",
+    "age_2015": 55,
+    "history": [
+      {
+        "date": "2015-05-24",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-10-11",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-04-01",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-20",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2017-06-22",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  },
+  {
+    "id": "GHOST_017",
+    "sex": "M",
+    "age_2015": 75,
+    "history": [
+      {
+        "date": "2015-05-17",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2015-09-23",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": []
+      },
+      {
+        "date": "2016-03-07",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "EGFR",
+            "vaf": 0.1
+          }
+        ]
+      },
+      {
+        "date": "2016-08-01",
+        "blood": {
+          "glucose": 90,
+          "ldh": 180
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "TP53",
+            "vaf": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2016-12-17",
+        "blood": {
+          "glucose": 90,
+          "ldh": 252
+        },
+        "clinical": {
+          "weight": 72
+        },
+        "noise_variants": [
+          {
+            "gene": "KRAS",
+            "vaf": 0.6
+          }
+        ]
+      }
+    ],
+    "diagnosis_date": "2017-09-01",
+    "truth": "MOLECULAR_RELAPSE"
+  }
+]

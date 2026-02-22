@@ -1,0 +1,60 @@
+{
+    "patient_data": {
+        "patient_id": "TEST-FULL-001",
+        "baseline": {
+            "patient_id": "TEST-FULL-001",
+            "age": 58,
+            "sex": "M",
+            "smoking_status": "Former",
+            "ecog_ps": 1,
+            "stage": "IVA",
+            "histology": "Adenocarcinoma",
+            "genetics": {
+                "tp53_status": "mutated",
+                "kras_mutation": "G12C",
+                "egfr_status": "wt",
+                "met_status": "wt",
+                "braf_status": "wt",
+                "her2_status": "wt",
+                "alk_status": "wt",
+                "stk11_status": "wt",
+                "keap1_status": "wt",
+                "rb1_status": "wt",
+                "pik3ca_status": "wt",
+                "tp53_vaf": 35.0,
+                "kras_vaf": 28.0
+            },
+            "biomarkers": {
+                "tmb_score": 12.0,
+                "pdl1_percent": 65.0
+            },
+            "pgx_profile": {
+                "CYP2D6": "*1/*1",
+                "CYP2C19": "*1/*1",
+                "CYP3A4": "*1/*1",
+                "DPYD": "*2A/*2A",
+                "UGT1A1": "*1/*1",
+                "TPMT": "*1/*1"
+            },
+            "blood_markers": {
+                "ldh": 320.0,
+                "neutrophils": 3800.0,
+                "lymphocytes": 1200.0,
+                "nlr": 3.2,
+                "albumin": 3.5,
+                "cea": 8.5
+            },
+            "current_therapy": "Sotorasib (KRAS G12C)",
+            "physics_simulation": {
+                "binding_energy": -9.0
+            },
+            "biopsy_image_path": null
+        },
+        "visits": [],
+        "raw_ngs_visits": []
+    },
+    "include_oracle": true,
+    "include_pgx": true,
+    "include_safety": true,
+    "max_oracle_alerts": 3
+}

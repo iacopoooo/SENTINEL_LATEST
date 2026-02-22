@@ -1,0 +1,58 @@
+{
+    "patient_data": {
+        "patient_id": "DRIFT-TEST",
+        "baseline": {
+            "patient_id": "DRIFT-TEST",
+            "age": 60,
+            "sex": "F"
+        },
+        "visits": [
+            {
+                "date": "2024-01-01",
+                "blood": {
+                    "glucose": 90
+                },
+                "clinical": {
+                    "weight": 80.0
+                }
+            },
+            {
+                "date": "2024-04-01",
+                "blood": {
+                    "glucose": 95
+                },
+                "clinical": {
+                    "weight": 79.0
+                }
+            },
+            {
+                "date": "2024-07-01",
+                "blood": {
+                    "glucose": 100
+                },
+                "clinical": {
+                    "weight": 78.0
+                }
+            },
+            {
+                "date": "2024-10-01",
+                "blood": {
+                    "glucose": 110
+                },
+                "clinical": {
+                    "weight": 77.0
+                }
+            },
+            {
+                "date": "2025-01-01",
+                "blood": {
+                    "glucose": 120
+                },
+                "clinical": {
+                    "weight": 75.0
+                }
+            }
+        ]
+    },
+    "max_alerts": 3
+}

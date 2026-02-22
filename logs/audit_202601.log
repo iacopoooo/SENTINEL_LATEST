@@ -1,0 +1,23 @@
+{"timestamp": "2026-01-08T19:57:53.996133", "patient_id": "SENT-TEST-001", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-10T15:41:44.312873", "patient_id": "SENT-2026-0003", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T15:41:46.449924", "patient_id": "SENT-2026-0003", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-10T15:47:17.537053", "patient_id": "SENT-2026-0004", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T15:47:19.119150", "patient_id": "SENT-2026-0004", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-10T15:51:13.985341", "patient_id": "SENT-2026-0005", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T15:51:16.119691", "patient_id": "SENT-2026-0005", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (17.6%)"}
+{"timestamp": "2026-01-10T16:33:56.704454", "patient_id": "SENT-2026-0006", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T16:33:58.128908", "patient_id": "SENT-2026-0006", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (17.6%)"}
+{"timestamp": "2026-01-10T16:48:17.747556", "patient_id": "SENT-2026-0007", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T16:48:19.401105", "patient_id": "SENT-2026-0007", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-10T17:01:59.115697", "patient_id": "SENT-2026-0008", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T17:02:02.147107", "patient_id": "SENT-2026-0008", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-10T17:20:42.052796", "patient_id": "SENT-2026-0009", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-10T17:20:43.515354", "patient_id": "SENT-2026-0009", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: CRITICAL (90.4%)"}
+{"timestamp": "2026-01-11T06:28:35.685563", "patient_id": "SENT-2026-0010", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-11T06:28:38.755754", "patient_id": "SENT-2026-0010", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: CRITICAL (89.8%)"}
+{"timestamp": "2026-01-11T06:52:13.868349", "patient_id": "SENT-2026-0011", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-11T06:52:14.866330", "patient_id": "SENT-2026-0011", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (15.0%)"}
+{"timestamp": "2026-01-11T06:55:35.820050", "patient_id": "SENT-2026-0012", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled via interactive form"}
+{"timestamp": "2026-01-11T06:55:36.871081", "patient_id": "SENT-2026-0012", "action": "SENTINEL_ANALYSIS", "user": "iacopo", "details": "Risk: LOW (20.8%)"}
+{"timestamp": "2026-01-15T20:01:37.345142", "patient_id": "SENT-2026-0014", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled"}
+{"timestamp": "2026-01-15T20:08:18.585596", "patient_id": "SENT-2026-0015", "action": "PATIENT_CREATED", "user": "iacopo", "details": "New patient enrolled"}
